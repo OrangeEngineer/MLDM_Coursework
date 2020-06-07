@@ -1,0 +1,24 @@
+import pandas as pd
+
+df = pd.read_csv(r'~/Workspace/ML_CW/VideoGames/VideGamesPreprocessed.csv')
+
+print(df)
+
+# MajCat, unique = pd.factorize(df['Major Category'],sort = False)
+# df.insert(3, "MajorCategory",MajCat, True)
+#
+# #for category type to be a factor
+# MinCat, unique = pd.factorize(df['Minor Category'],sort=False)
+# df.insert(3, "MinorCategory",MinCat, True)
+#
+# # print(df.iloc[:,4:8].sum(axis = 1))
+#
+# year_sum = df.iloc[:,df.columns.get_loc('2008'):df.columns.get_loc('2017')].sum(axis = 1)
+# normalized_year_sum=(year_sum-year_sum.mean())/year_sum.std()
+# df.insert(df.shape[1], "NormalizedSumYears",normalized_year_sum, True)
+
+bin_labels = ['Low','Medium','High']
+df['GameTier'] = pd.qcut(df['Score'], q=3, labels = bin_labels)
+
+df.to_csv('Preprocessed_VideoGames.csv')
+print(df)

@@ -1,0 +1,1057 @@
+,Borough,Major Category,Minor Category,MinorCategory,MajorCategory,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,NormalizedSumYears,CrimeTier
+0,Barking and Dagenham,Burglary,Burglary in a Dwelling,0,0,1170,1803,1584,1625,1795,1669,1368,1184,840,1229,1284,0.711125992183713,High
+1,Barking and Dagenham,Burglary,Burglary in Other Buildings,1,0,649,690,622,739,665,574,541,448,453,673,629,-0.1388269809565405,Medium
+2,Barking and Dagenham,Criminal Damage,Criminal Damage To Dwelling,2,1,803,722,661,606,488,474,398,408,453,424,321,-0.1796762292411968,Medium
+3,Barking and Dagenham,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1439,1278,1037,881,686,669,753,842,839,762,630,0.19895634113641905,High
+4,Barking and Dagenham,Criminal Damage,Criminal Damage To Other Building,4,1,196,190,185,180,141,137,144,149,166,111,87,-0.5709631863156899,Low
+5,Barking and Dagenham,Criminal Damage,Other Criminal Damage,5,1,599,657,595,525,404,364,382,439,507,486,490,-0.23972906435532468,Medium
+6,Barking and Dagenham,Drugs,Drug Trafficking,6,2,65,85,107,82,76,69,89,51,68,61,62,-0.6593218864096747,Low
+7,Barking and Dagenham,Drugs,Other Drugs,7,2,2,1,7,3,0,6,3,2,3,0,1,-0.7331391421414585,Low
+8,Barking and Dagenham,Drugs,Possession Of Drugs,8,2,1474,976,1076,911,989,1203,972,1139,1061,723,849,0.35180801202764655,High
+9,Barking and Dagenham,Fraud or Forgery,Counted per Victim,9,3,859,792,936,833,508,50,0,0,0,0,0,-0.2945647400417926,Medium
+10,Barking and Dagenham,Fraud or Forgery,Other Fraud & Forgery,10,3,381,439,332,306,289,40,36,23,17,26,23,-0.5293369142864884,Medium
+11,Barking and Dagenham,Other Notifiable Offences,Going Equipped,11,4,13,15,11,9,7,11,8,6,11,8,4,-0.7260349250484748,Low
+12,Barking and Dagenham,Other Notifiable Offences,Other Notifiable,12,4,256,339,318,347,260,281,325,336,383,375,374,-0.42033158326601977,Medium
+13,Barking and Dagenham,Robbery,Business Property,13,5,72,77,83,81,71,36,36,46,49,48,57,-0.6749733646926545,Low
+14,Barking and Dagenham,Robbery,Personal Property,14,5,599,774,802,973,696,503,463,527,503,830,768,-0.087876423992798,Medium
+15,Barking and Dagenham,Sexual Offences,Other Sexual,15,6,160,178,177,178,155,163,227,265,272,276,299,-0.5391052127893411,Low
+16,Barking and Dagenham,Sexual Offences,Rape,16,6,52,71,81,89,111,126,137,176,194,208,211,-0.6210257161428094,Low
+17,Barking and Dagenham,Theft and Handling,Handling Stolen Goods,17,7,49,51,49,32,43,60,72,44,25,30,24,-0.6889597920944661,Low
+18,Barking and Dagenham,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,142,96,92,98,126,147,171,191,278,0,0,-0.5872806849511368,Low
+19,Barking and Dagenham,Theft and Handling,Other Theft,19,7,1689,1621,1867,1942,2289,1996,1969,1925,1961,2020,1795,1.1796713101444036,High
+20,Barking and Dagenham,Theft and Handling,Other Theft Person,20,7,287,363,358,385,439,390,326,299,350,421,458,-0.3812583892546094,Medium
+21,Barking and Dagenham,Theft and Handling,Theft From Motor Vehicle,21,7,1678,1635,1741,1593,1582,1791,1093,949,1052,1276,1085,0.7195622499816311,High
+22,Barking and Dagenham,Theft and Handling,Theft From Shops,22,7,654,750,798,709,651,740,744,834,929,924,790,0.019685862930658386,Medium
+23,Barking and Dagenham,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,999,967,1035,1224,800,815,736,730,919,1183,1268,0.17686666611292284,High
+24,Barking and Dagenham,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,180,253,264,285,316,265,226,238,185,247,203,-0.49059673045131175,Medium
+25,Barking and Dagenham,Violence Against the Person,Assault with Injury,25,8,1887,1983,1826,1666,1438,1166,1371,1391,1376,1506,1423,0.8294556081387228,High
+26,Barking and Dagenham,Violence Against the Person,Common Assault,26,8,1200,1282,1240,1091,967,1024,1355,1553,1653,1780,1677,0.5254173172374358,High
+27,Barking and Dagenham,Violence Against the Person,Grievous Bodily Harm,27,8,142,304,116,0,0,0,0,0,0,0,0,-0.6737523273797978,Low
+28,Barking and Dagenham,Violence Against the Person,Harassment,28,8,1445,1370,1174,842,988,1049,1364,1788,1900,1909,2122,0.5870241998406539,High
+29,Barking and Dagenham,Violence Against the Person,Murder,29,8,1,3,3,1,0,3,4,3,5,2,6,-0.73358315570977,Low
+30,Barking and Dagenham,Violence Against the Person,Offensive Weapon,30,8,172,145,118,93,73,68,55,82,132,142,179,-0.6320150519585186,Low
+31,Barking and Dagenham,Violence Against the Person,Other violence,31,8,188,230,209,203,139,227,271,401,369,372,441,-0.487821645649365,Medium
+32,Barking and Dagenham,Violence Against the Person,Wounding/GBH,32,8,150,0,70,198,172,419,589,711,737,622,637,-0.39801990145836785,Medium
+33,Barnet,Burglary,Burglary in a Dwelling,0,0,2604,2943,3099,3505,3486,2960,2578,2695,2374,2786,2912,2.177036787964069,High
+34,Barnet,Burglary,Burglary in Other Buildings,1,0,1213,1181,1247,1419,1362,1314,1041,1160,1036,1252,1520,0.48190398754291064,High
+35,Barnet,Criminal Damage,Criminal Damage To Dwelling,2,1,644,612,603,568,443,433,411,407,454,433,393,-0.22829571497130402,Medium
+36,Barnet,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1471,1170,1204,1079,900,812,960,1030,983,936,826,0.33049536074869545,High
+37,Barnet,Criminal Damage,Criminal Damage To Other Building,4,1,321,262,264,254,233,210,191,241,186,181,161,-0.49614690005520523,Medium
+38,Barnet,Criminal Damage,Other Criminal Damage,5,1,612,655,697,579,426,421,537,589,589,587,625,-0.16946391717003273,Medium
+39,Barnet,Drugs,Drug Trafficking,6,2,85,107,84,109,86,118,85,81,117,135,96,-0.639341275835658,Low
+40,Barnet,Drugs,Other Drugs,7,2,6,1,5,2,6,9,6,3,7,8,6,-0.7311410810840568,Low
+41,Barnet,Drugs,Possession Of Drugs,8,2,1275,1418,1119,1151,865,920,943,736,785,652,589,0.2864270140937809,High
+42,Barnet,Fraud or Forgery,Counted per Victim,9,3,971,932,1057,1107,925,107,0,0,0,0,0,-0.17012993752249994,Medium
+43,Barnet,Fraud or Forgery,Other Fraud & Forgery,10,3,408,521,472,472,656,125,35,55,38,48,51,-0.4273247969669256,Medium
+44,Barnet,Other Notifiable Offences,Going Equipped,11,4,22,27,22,28,11,27,12,13,20,8,16,-0.7159336163693886,Low
+45,Barnet,Other Notifiable Offences,Other Notifiable,12,4,297,286,259,270,275,278,351,380,499,472,522,-0.41478141366212623,Medium
+46,Barnet,Robbery,Business Property,13,5,83,116,78,85,79,74,40,58,37,45,68,-0.6639840288769452,Low
+47,Barnet,Robbery,Personal Property,14,5,741,834,873,1085,1076,726,522,564,431,601,687,0.02445900879000681,Medium
+48,Barnet,Sexual Offences,Other Sexual,15,6,195,235,189,222,217,235,259,282,344,409,358,-0.49437084578195933,Medium
+49,Barnet,Sexual Offences,Rape,16,6,44,80,102,90,85,115,146,162,199,236,274,-0.6225797636318996,Low
+50,Barnet,Theft and Handling,Handling Stolen Goods,17,7,81,83,52,60,57,67,51,47,38,35,39,-0.6766384155738224,Low
+51,Barnet,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,188,192,212,227,236,279,467,535,575,0,0,-0.41300535938888033,Medium
+52,Barnet,Theft and Handling,Other Theft,19,7,2838,2858,2999,3174,4166,3704,3598,3433,3703,4087,3862,2.6464701330613827,High
+53,Barnet,Theft and Handling,Other Theft Person,20,7,770,987,869,710,717,743,571,661,679,733,754,0.008363516938715608,Medium
+54,Barnet,Theft and Handling,Theft From Motor Vehicle,21,7,3555,3004,3063,3501,3115,3037,2253,2394,2290,2429,3035,2.173484679417577,High
+55,Barnet,Theft and Handling,Theft From Shops,22,7,1569,1521,1490,1301,1282,1171,1249,1203,1629,1638,1561,0.6419708789191997,High
+56,Barnet,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1078,831,819,921,713,770,717,666,819,1041,1534,0.07796264377154033,High
+57,Barnet,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,164,274,249,230,270,224,196,280,234,254,175,-0.5006980391303979,Medium
+58,Barnet,Violence Against the Person,Assault with Injury,25,8,1591,1589,1468,1375,1312,1074,1413,1494,1509,1626,1551,0.6874822696711266,High
+59,Barnet,Violence Against the Person,Common Assault,26,8,1464,1482,1405,1300,1066,1164,1547,1891,1945,2138,2188,0.7362127587933116,High
+60,Barnet,Violence Against the Person,Grievous Bodily Harm,27,8,105,225,94,0,0,0,0,0,0,0,0,-0.6890707954865439,Low
+61,Barnet,Violence Against the Person,Harassment,28,8,1466,1389,1248,1202,1279,1394,1934,2546,2994,3017,3285,0.9790881806596919,High
+62,Barnet,Violence Against the Person,Murder,29,8,4,1,7,4,0,3,5,2,4,5,4,-0.7328061319652249,Low
+63,Barnet,Violence Against the Person,Offensive Weapon,30,8,142,126,102,83,58,85,89,90,121,171,160,-0.6366771944257892,Low
+64,Barnet,Violence Against the Person,Other violence,31,8,207,166,184,127,122,195,242,271,394,369,351,-0.5243417616429843,Medium
+65,Barnet,Violence Against the Person,Wounding/GBH,32,8,116,0,56,153,138,420,586,654,664,667,645,-0.42676978000653626,Medium
+66,Bexley,Burglary,Burglary in a Dwelling,0,0,1445,1352,1222,904,1040,1140,927,678,711,1043,1378,0.30940471625390004,High
+67,Bexley,Burglary,Burglary in Other Buildings,1,0,856,720,718,592,657,653,617,406,415,573,589,-0.11074312276083931,Medium
+68,Bexley,Criminal Damage,Criminal Damage To Dwelling,2,1,669,591,480,388,342,315,310,296,321,359,332,-0.32409164233450616,Medium
+69,Bexley,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1448,1288,997,782,754,691,704,764,825,786,685,0.1799747610911032,High
+70,Bexley,Criminal Damage,Criminal Damage To Other Building,4,1,268,216,171,133,133,120,119,115,139,129,124,-0.5791774373294523,Low
+71,Bexley,Criminal Damage,Other Criminal Damage,5,1,582,697,599,438,367,315,337,403,408,506,444,-0.2759161701727104,Medium
+72,Bexley,Drugs,Drug Trafficking,6,2,78,52,66,112,83,90,61,107,65,35,28,-0.6568798117839615,Low
+73,Bexley,Drugs,Other Drugs,7,2,2,5,5,9,1,4,2,4,5,4,2,-0.7320291082206798,Low
+74,Bexley,Drugs,Possession Of Drugs,8,2,977,800,935,838,744,761,727,585,607,472,563,0.038001422623506996,High
+75,Bexley,Fraud or Forgery,Counted per Victim,9,3,480,514,421,486,256,74,0,0,0,0,0,-0.4884876660018322,Medium
+76,Bexley,Fraud or Forgery,Other Fraud & Forgery,10,3,148,175,142,168,170,27,9,9,10,15,11,-0.6408953233247482,Low
+77,Bexley,Other Notifiable Offences,Going Equipped,11,4,6,10,10,7,10,9,6,12,16,10,11,-0.7265899420088642,Low
+78,Bexley,Other Notifiable Offences,Other Notifiable,12,4,148,176,161,159,194,217,243,379,304,374,379,-0.5162385140212997,Medium
+79,Bexley,Robbery,Business Property,13,5,40,52,64,44,30,43,27,18,24,39,55,-0.6981730736369293,Low
+80,Bexley,Robbery,Personal Property,14,5,327,274,200,318,206,234,182,157,194,254,268,-0.5039171375006561,Medium
+81,Bexley,Sexual Offences,Other Sexual,15,6,126,137,140,137,140,133,180,200,244,275,232,-0.5766243593116612,Low
+82,Bexley,Sexual Offences,Rape,16,6,24,36,31,34,40,74,91,91,140,137,156,-0.6738633307718757,Low
+83,Bexley,Theft and Handling,Handling Stolen Goods,17,7,52,39,26,20,25,42,16,23,27,16,18,-0.706165317866536,Low
+84,Bexley,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,129,174,83,85,93,123,190,256,266,0,0,-0.5808424882106203,Low
+85,Bexley,Theft and Handling,Other Theft,19,7,1435,1321,1480,1384,1652,1448,1417,1401,1495,1541,1492,0.7105709752233236,High
+86,Bexley,Theft and Handling,Other Theft Person,20,7,220,166,190,158,172,160,130,142,181,201,185,-0.5675220811612759,Low
+87,Bexley,Theft and Handling,Theft From Motor Vehicle,21,7,1692,1383,1256,1030,1198,1095,1057,916,923,1004,1299,0.43494955269397145,High
+88,Bexley,Theft and Handling,Theft From Shops,22,7,849,895,736,691,667,784,796,760,819,1097,1009,0.040554500641298015,High
+89,Bexley,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,806,804,699,511,485,495,554,563,573,768,776,-0.12672761122005263,Medium
+90,Bexley,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,164,133,124,113,123,118,122,96,151,152,116,-0.6091483531904773,Low
+91,Bexley,Violence Against the Person,Assault with Injury,25,8,1371,1328,1124,1008,1019,771,847,921,1070,1166,1126,0.3138448519370149,High
+92,Bexley,Violence Against the Person,Common Assault,26,8,873,886,853,720,672,697,901,1048,1136,1295,1330,0.12813617699073773,High
+93,Bexley,Violence Against the Person,Grievous Bodily Harm,27,8,63,161,67,0,0,0,0,0,0,0,0,-0.7038342466329007,Low
+94,Bexley,Violence Against the Person,Harassment,28,8,751,1113,1007,772,819,797,1026,1372,1580,1782,1903,0.2892020988957277,High
+95,Bexley,Violence Against the Person,Murder,29,8,5,2,0,5,1,0,1,2,5,0,0,-0.7338051624939257,Low
+96,Bexley,Violence Against the Person,Offensive Weapon,30,8,145,104,84,68,54,49,44,59,73,103,89,-0.6606539271146091,Low
+97,Bexley,Violence Against the Person,Other violence,31,8,137,174,108,109,107,175,151,187,229,215,267,-0.5832845628363335,Low
+98,Bexley,Violence Against the Person,Wounding/GBH,32,8,72,0,40,102,111,260,410,376,464,471,461,-0.5324450092646689,Medium
+99,Brent,Burglary,Burglary in a Dwelling,0,0,2428,2762,2605,2887,2962,2367,2010,2037,1846,2333,2497,1.6952820663461117,High
+100,Brent,Burglary,Burglary in Other Buildings,1,0,941,928,996,891,973,725,629,671,795,1026,1223,0.10182837306828246,High
+101,Brent,Criminal Damage,Criminal Damage To Dwelling,2,1,636,705,681,576,466,510,514,429,516,520,490,-0.1774561613996394,Medium
+102,Brent,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1218,1155,1061,1012,899,806,786,868,890,864,751,0.2290382603895219,High
+103,Brent,Criminal Damage,Criminal Damage To Other Building,4,1,243,270,276,255,245,209,253,215,243,200,218,-0.49092974062754535,Medium
+104,Brent,Criminal Damage,Other Criminal Damage,5,1,554,696,547,567,555,491,585,606,649,687,731,-0.15336842531874154,Medium
+105,Brent,Drugs,Drug Trafficking,6,2,178,288,133,230,139,177,124,95,148,145,137,-0.568299104905821,Low
+106,Brent,Drugs,Other Drugs,7,2,15,17,32,33,35,29,23,21,20,23,27,-0.7111604705100402,Low
+107,Brent,Drugs,Possession Of Drugs,8,2,3059,2654,3266,4365,3481,3306,2880,1770,1990,1553,1612,2.2355355755891066,High
+108,Brent,Fraud or Forgery,Counted per Victim,9,3,936,1029,1045,800,864,76,0,0,0,0,0,-0.2088701213576767,Medium
+109,Brent,Fraud or Forgery,Other Fraud & Forgery,10,3,375,413,470,469,545,76,26,32,36,58,47,-0.46506595027340153,Medium
+110,Brent,Other Notifiable Offences,Going Equipped,11,4,8,18,20,37,24,20,14,23,29,20,16,-0.714712579056532,Low
+111,Brent,Other Notifiable Offences,Other Notifiable,12,4,296,321,436,426,440,421,471,405,547,561,622,-0.31843046933853475,Medium
+112,Brent,Robbery,Business Property,13,5,99,146,115,110,88,63,43,64,56,97,114,-0.6491095743385106,Low
+113,Brent,Robbery,Personal Property,14,5,1641,1688,1842,2114,1605,1112,845,839,882,1124,1347,0.6589543979071139,High
+114,Brent,Sexual Offences,Other Sexual,15,6,214,201,203,256,264,229,296,325,374,442,449,-0.4739462216396312,Medium
+115,Brent,Sexual Offences,Rape,16,6,87,112,103,115,118,130,176,189,203,247,244,-0.5992690512955469,Low
+116,Brent,Theft and Handling,Handling Stolen Goods,17,7,77,47,44,78,73,65,52,45,37,44,23,-0.6786364766312242,Low
+117,Brent,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,62,87,147,146,161,143,212,423,416,0,0,-0.5366631381636279,Low
+118,Brent,Theft and Handling,Other Theft,19,7,2375,2529,2575,2952,3156,2798,2942,2976,3206,3442,3400,2.0954492947868344,High
+119,Brent,Theft and Handling,Other Theft Person,20,7,1125,1324,1009,972,982,911,724,721,719,889,949,0.20594955483732488,High
+120,Brent,Theft and Handling,Theft From Motor Vehicle,21,7,2423,2338,2457,2463,2236,2070,1561,1807,1854,2316,2133,1.396127924696251,High
+121,Brent,Theft and Handling,Theft From Shops,22,7,676,911,995,975,875,876,1181,1319,1491,1435,1361,0.29608430920455564,High
+122,Brent,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,800,767,874,798,573,559,650,784,900,1298,1479,0.008141510154559866,Medium
+123,Brent,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,260,413,362,361,353,414,446,415,444,430,340,-0.35117647000150654,Medium
+124,Brent,Violence Against the Person,Assault with Injury,25,8,2180,2445,2279,2189,2058,1539,1789,1828,2015,2163,2035,1.2976679159231799,High
+125,Brent,Violence Against the Person,Common Assault,26,8,1460,1766,1780,1829,1649,1537,2247,2662,2930,3218,3275,1.2463843487832038,High
+126,Brent,Violence Against the Person,Grievous Bodily Harm,27,8,223,522,260,0,0,0,0,0,0,0,0,-0.6245778246893012,Low
+127,Brent,Violence Against the Person,Harassment,28,8,1711,1876,2137,2295,2018,1805,2172,2499,2688,2749,3285,1.3952398975596279,High
+128,Brent,Violence Against the Person,Murder,29,8,9,5,6,4,5,3,5,9,6,6,3,-0.7303640573395117,Low
+129,Brent,Violence Against the Person,Offensive Weapon,30,8,235,146,192,228,131,153,153,176,221,259,255,-0.5546456876802429,Low
+130,Brent,Violence Against the Person,Other violence,31,8,205,268,249,335,305,381,428,435,458,491,546,-0.39602184040096616,Medium
+131,Brent,Violence Against the Person,Wounding/GBH,32,8,187,0,152,438,333,683,974,940,1021,1120,1107,-0.21131219598338985,Medium
+132,Bromley,Burglary,Burglary in a Dwelling,0,0,1968,2202,1923,1974,2152,2035,1833,1552,1438,2062,2189,1.1594686927862312,High
+133,Bromley,Burglary,Burglary in Other Buildings,1,0,1592,1559,1110,1201,1304,1101,861,965,777,1072,973,0.4260692813277418,High
+134,Bromley,Criminal Damage,Criminal Damage To Dwelling,2,1,944,847,673,544,522,470,511,536,448,497,453,-0.1261725942596633,Medium
+135,Bromley,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,2118,1630,1253,1231,968,838,916,899,886,866,785,0.45592919379668895,High
+136,Bromley,Criminal Damage,Criminal Damage To Other Building,4,1,490,391,268,258,236,191,235,209,193,189,186,-0.4618468519031433,Medium
+137,Bromley,Criminal Damage,Other Criminal Damage,5,1,830,703,621,645,544,511,620,641,678,736,787,-0.09309358342045791,Medium
+138,Bromley,Drugs,Drug Trafficking,6,2,123,78,85,150,97,82,67,67,53,81,38,-0.6471115132811089,Low
+139,Bromley,Drugs,Other Drugs,7,2,2,3,7,3,7,6,3,5,5,6,3,-0.7315850946523683,Low
+140,Bromley,Drugs,Possession Of Drugs,8,2,1045,1118,1059,940,935,981,938,808,674,544,662,0.20717059215018144,High
+141,Bromley,Fraud or Forgery,Counted per Victim,9,3,1131,1068,1250,1173,394,43,0,0,0,0,0,-0.17457007320561477,Medium
+142,Bromley,Fraud or Forgery,Other Fraud & Forgery,10,3,226,255,237,238,238,35,17,19,35,39,22,-0.5918318240263295,Low
+143,Bromley,Other Notifiable Offences,Going Equipped,11,4,22,23,13,23,19,12,9,15,14,17,10,-0.7194857249158805,Low
+144,Bromley,Other Notifiable Offences,Other Notifiable,12,4,213,270,276,190,227,268,327,391,407,389,395,-0.450968519479512,Medium
+145,Bromley,Robbery,Business Property,13,5,117,79,75,66,63,70,55,43,38,64,69,-0.6688681781283715,Low
+146,Bromley,Robbery,Personal Property,14,5,715,519,539,672,542,508,338,319,330,565,384,-0.23861903043454596,Medium
+147,Bromley,Sexual Offences,Other Sexual,15,6,189,219,191,187,169,186,241,276,319,335,378,-0.5166825275896113,Medium
+148,Bromley,Sexual Offences,Rape,16,6,27,61,57,70,59,111,119,128,155,183,204,-0.648776564162277,Low
+149,Bromley,Theft and Handling,Handling Stolen Goods,17,7,54,71,61,49,62,40,49,28,25,28,18,-0.6874057446053758,Low
+150,Bromley,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,292,298,188,154,166,199,243,333,342,0,0,-0.4902637202750781,Medium
+151,Bromley,Theft and Handling,Other Theft,19,7,2579,2245,2399,2739,3189,2862,2788,2841,2691,2759,2633,1.9649093057032587,High
+152,Bromley,Theft and Handling,Other Theft Person,20,7,443,386,325,322,366,365,303,275,352,297,308,-0.38791859277928165,Medium
+153,Bromley,Theft and Handling,Theft From Motor Vehicle,21,7,2882,2391,2148,2132,1937,1963,1671,1462,1440,1864,2029,1.2648109118681303,High
+154,Bromley,Theft and Handling,Theft From Shops,22,7,1595,1493,1443,1459,1233,1532,1750,1688,1850,1722,2074,0.8226844012219726,High
+155,Bromley,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1105,861,753,766,764,647,572,797,709,883,900,0.038001422623506996,High
+156,Bromley,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,226,263,209,280,253,178,167,170,207,227,215,-0.5193466089994802,Medium
+157,Bromley,Violence Against the Person,Assault with Injury,25,8,1941,1932,1752,1656,1383,1278,1375,1422,1468,1542,1524,0.8408889575227434,High
+158,Bromley,Violence Against the Person,Common Assault,26,8,1213,1254,1109,988,1033,1022,1423,1687,1647,1878,1915,0.5266383545502924,High
+159,Bromley,Violence Against the Person,Grievous Bodily Harm,27,8,124,290,118,0,0,0,0,0,0,0,0,-0.6770824291421339,Low
+160,Bromley,Violence Against the Person,Harassment,28,8,1740,1770,1510,1507,1376,1307,1890,2622,2555,2713,2937,1.070665979123935,High
+161,Bromley,Violence Against the Person,Murder,29,8,0,4,0,3,1,1,1,0,0,1,4,-0.7350261998067823,Low
+162,Bromley,Violence Against the Person,Offensive Weapon,30,8,172,136,112,113,85,84,75,86,85,211,184,-0.6309050180377399,Low
+163,Bromley,Violence Against the Person,Other violence,31,8,183,136,166,145,177,176,204,215,257,292,317,-0.5519816062703741,Low
+164,Bromley,Violence Against the Person,Wounding/GBH,32,8,162,0,103,262,154,386,584,601,656,724,612,-0.41333836956511394,Medium
+165,Camden,Burglary,Burglary in a Dwelling,0,0,2006,1764,1566,1848,1533,1506,1518,1528,1432,1646,1905,0.8957246332092114,High
+166,Camden,Burglary,Burglary in Other Buildings,1,0,1599,1566,1655,1582,1407,1594,1413,1311,1221,1886,1958,0.7455370437278528,High
+167,Camden,Criminal Damage,Criminal Damage To Dwelling,2,1,754,714,566,515,436,350,370,356,379,375,371,-0.24328117290181653,Medium
+168,Camden,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1009,968,792,810,689,564,652,669,622,659,530,0.01591174760001079,Medium
+169,Camden,Criminal Damage,Criminal Damage To Other Building,4,1,361,364,403,343,300,281,278,344,320,281,260,-0.4037920778464171,Medium
+170,Camden,Criminal Damage,Other Criminal Damage,5,1,557,569,520,464,467,372,396,535,616,564,555,-0.23706498294545578,Medium
+171,Camden,Drugs,Drug Trafficking,6,2,293,274,201,244,165,133,123,97,111,95,91,-0.5539796673277757,Low
+172,Camden,Drugs,Other Drugs,7,2,57,21,30,13,28,23,17,13,19,15,14,-0.7116044840783516,Low
+173,Camden,Drugs,Possession Of Drugs,8,2,4010,3258,2392,2393,2088,2039,1802,1554,1372,1217,1153,1.5847226878365526,High
+174,Camden,Fraud or Forgery,Counted per Victim,9,3,518,497,643,678,826,79,0,0,0,0,0,-0.3763742400031831,Medium
+175,Camden,Fraud or Forgery,Other Fraud & Forgery,10,3,384,370,415,480,579,86,53,30,39,57,38,-0.46573197062586874,Medium
+176,Camden,Other Notifiable Offences,Going Equipped,11,4,19,34,31,28,26,28,19,16,19,16,13,-0.7117154874704295,Low
+177,Camden,Other Notifiable Offences,Other Notifiable,12,4,471,400,358,335,450,400,469,432,509,409,451,-0.31165926242178466,Medium
+178,Camden,Robbery,Business Property,13,5,73,92,95,65,56,74,77,78,65,126,111,-0.6612089440749985,Low
+179,Camden,Robbery,Personal Property,14,5,895,962,1084,1440,1078,823,805,964,848,1901,1619,0.2516829523734075,High
+180,Camden,Sexual Offences,Other Sexual,15,6,175,220,222,257,250,234,281,392,392,436,419,-0.4671750147228811,Medium
+181,Camden,Sexual Offences,Rape,16,6,40,53,116,117,93,103,157,189,226,316,304,-0.6146985227943708,Low
+182,Camden,Theft and Handling,Handling Stolen Goods,17,7,124,114,87,99,90,57,51,46,60,48,42,-0.6553257642948713,Low
+183,Camden,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,41,183,176,204,159,159,293,360,383,0,0,-0.5187915920390908,Medium
+184,Camden,Theft and Handling,Other Theft,19,7,7334,7425,8147,8645,8368,7220,6073,6205,5781,5973,6779,6.501062922965431,High
+185,Camden,Theft and Handling,Other Theft Person,20,7,1402,2185,2480,4019,4309,3770,2471,3178,2837,7517,4551,2.2222151685397624,High
+186,Camden,Theft and Handling,Theft From Motor Vehicle,21,7,2903,2312,2236,2518,2121,1905,1726,1509,1604,1920,2078,1.3545016526670495,High
+187,Camden,Theft and Handling,Theft From Shops,22,7,972,1269,1330,1407,1257,1107,1204,1462,1684,1793,1661,0.5617154264468994,High
+188,Camden,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,795,771,656,682,574,695,805,785,859,1038,658,-0.0010717713879033741,Medium
+189,Camden,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1238,1869,1568,1413,1152,1104,1153,1077,1083,1191,1345,0.557830307724174,High
+190,Camden,Violence Against the Person,Assault with Injury,25,8,1732,1755,2009,1955,1678,1190,1301,1468,1600,1620,1714,0.894281589112199,High
+191,Camden,Violence Against the Person,Common Assault,26,8,1353,1295,1453,1490,1336,1195,1655,2140,2325,2536,2545,0.8447740762454689,High
+192,Camden,Violence Against the Person,Grievous Bodily Harm,27,8,157,293,171,0,0,0,0,0,0,0,0,-0.6672031272472034,Low
+193,Camden,Violence Against the Person,Harassment,28,8,2208,2034,1917,1616,1617,1326,1805,2423,2635,2891,3035,1.2154144023934779,High
+194,Camden,Violence Against the Person,Murder,29,8,2,2,2,2,6,1,2,1,6,1,4,-0.7334721523176921,Low
+195,Camden,Violence Against the Person,Offensive Weapon,30,8,191,125,144,107,114,120,83,97,139,211,188,-0.6118124346003462,Low
+196,Camden,Violence Against the Person,Other violence,31,8,268,209,161,202,191,235,214,230,262,300,289,-0.5172375445500006,Medium
+197,Camden,Violence Against the Person,Wounding/GBH,32,8,168,0,103,250,229,530,673,856,726,906,870,-0.34373924273228923,Medium
+198,Croydon,Burglary,Burglary in a Dwelling,0,0,2296,2835,2831,2959,2798,2759,2068,1825,1853,2053,2246,1.73080315181103,High
+199,Croydon,Burglary,Burglary in Other Buildings,1,0,1481,1432,1435,1693,1256,1219,1079,915,900,1105,1123,0.5304124698809399,High
+200,Croydon,Criminal Damage,Criminal Damage To Dwelling,2,1,1281,1148,1109,946,798,699,661,744,751,764,652,0.16709836761007024,High
+201,Croydon,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,2072,1967,1836,1470,1341,1215,1198,1243,1323,1236,998,0.7807251190165376,High
+202,Croydon,Criminal Damage,Criminal Damage To Other Building,4,1,481,415,411,364,323,305,318,317,336,271,187,-0.37315514163292485,Medium
+203,Croydon,Criminal Damage,Other Criminal Damage,5,1,792,798,748,733,665,620,676,842,848,892,836,0.010028567819883663,Medium
+204,Croydon,Drugs,Drug Trafficking,6,2,122,130,147,149,224,134,167,117,99,125,95,-0.5930528613391861,Low
+205,Croydon,Drugs,Other Drugs,7,2,10,9,8,12,19,21,10,8,7,11,13,-0.7245918809514624,Low
+206,Croydon,Drugs,Possession Of Drugs,8,2,2834,2527,2209,2209,2181,1991,1737,1477,1284,1566,1553,1.3117653467170693,High
+207,Croydon,Fraud or Forgery,Counted per Victim,9,3,1479,1439,1503,989,709,55,0,0,0,0,0,-0.050801291038789304,Medium
+208,Croydon,Fraud or Forgery,Other Fraud & Forgery,10,3,358,379,347,429,521,68,30,39,41,49,31,-0.49059673045131175,Medium
+209,Croydon,Other Notifiable Offences,Going Equipped,11,4,19,11,16,21,20,19,16,18,21,15,10,-0.7182646876030239,Low
+210,Croydon,Other Notifiable Offences,Other Notifiable,12,4,384,425,431,420,478,393,509,616,756,672,683,-0.2463892678799969,Medium
+211,Croydon,Robbery,Business Property,13,5,214,214,197,195,170,132,103,94,80,86,92,-0.5808424882106203,Low
+212,Croydon,Robbery,Personal Property,14,5,1235,1389,1407,1632,1823,1599,896,648,1082,1103,1009,0.563824490896379,High
+213,Croydon,Sexual Offences,Other Sexual,15,6,248,268,316,289,289,307,353,429,492,495,521,-0.4041250880226507,Medium
+214,Croydon,Sexual Offences,Rape,16,6,150,168,160,200,196,210,299,303,336,396,444,-0.511687374946107,Medium
+215,Croydon,Theft and Handling,Handling Stolen Goods,17,7,75,65,61,128,49,74,51,47,50,68,50,-0.6695341984808387,Low
+216,Croydon,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,201,212,186,145,228,182,235,372,388,0,0,-0.4975899441522176,Medium
+217,Croydon,Theft and Handling,Other Theft,19,7,3333,3132,3669,3959,4909,4013,3912,3642,3342,3246,3546,3.028099795025101,High
+218,Croydon,Theft and Handling,Other Theft Person,20,7,630,727,683,814,846,881,525,509,613,494,554,-0.0448071078665843,Medium
+219,Croydon,Theft and Handling,Theft From Motor Vehicle,21,7,2788,3051,3001,2717,2933,2711,2139,2005,1848,2055,2526,1.8383654387344865,High
+220,Croydon,Theft and Handling,Theft From Shops,22,7,1517,1631,1719,1695,1694,1486,1999,1941,1865,1651,1399,0.9896335029070896,High
+221,Croydon,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1278,1223,1170,1084,973,734,785,907,1096,1082,1143,0.29064514299273997,High
+222,Croydon,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,234,416,324,419,300,342,237,229,273,333,252,-0.42821282410354855,Medium
+223,Croydon,Violence Against the Person,Assault with Injury,25,8,2758,2781,2448,2419,2361,1969,2243,2348,2496,2369,2349,1.686290791587804,High
+224,Croydon,Violence Against the Person,Common Assault,26,8,1814,1848,1852,1872,1718,1573,2274,2860,2926,2996,3005,1.3437343236354962,High
+225,Croydon,Violence Against the Person,Grievous Bodily Harm,27,8,152,318,193,0,0,0,0,0,0,0,0,-0.662540984779933,Low
+226,Croydon,Violence Against the Person,Harassment,28,8,1482,1572,1493,1584,1722,1537,2329,3164,3375,3436,3664,1.2905636988301963,High
+227,Croydon,Violence Against the Person,Murder,29,8,5,6,6,6,6,4,4,0,9,8,2,-0.7310300776919789,Low
+228,Croydon,Violence Against the Person,Offensive Weapon,30,8,311,235,237,204,190,170,195,193,233,385,345,-0.5176815581183121,Medium
+229,Croydon,Violence Against the Person,Other violence,31,8,273,353,261,293,323,322,350,418,465,488,564,-0.3966878607534334,Medium
+230,Croydon,Violence Against the Person,Wounding/GBH,32,8,189,0,121,323,353,707,949,1062,1011,1138,1063,-0.21275524008040217,Medium
+231,Ealing,Burglary,Burglary in a Dwelling,0,0,2861,2918,2658,2776,2864,2442,2078,1920,1637,1907,2015,1.7230329143655791,High
+232,Ealing,Burglary,Burglary in Other Buildings,1,0,1088,1035,1113,1091,1100,1142,835,709,848,1132,1004,0.25856516268223545,High
+233,Ealing,Criminal Damage,Criminal Damage To Dwelling,2,1,820,855,752,732,606,507,502,490,545,439,456,-0.09131752914721199,Medium
+234,Ealing,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1766,1670,1771,1432,1227,1090,1027,1141,1084,1010,924,0.6189931767590805,High
+235,Ealing,Criminal Damage,Criminal Damage To Other Building,4,1,289,304,289,318,231,202,285,259,258,240,169,-0.4658429740179466,Medium
+236,Ealing,Criminal Damage,Other Criminal Damage,5,1,652,732,781,720,575,462,534,579,682,653,650,-0.10152984121837606,Medium
+237,Ealing,Drugs,Drug Trafficking,6,2,166,222,192,163,190,265,159,139,111,163,78,-0.5577537826584233,Low
+238,Ealing,Drugs,Other Drugs,7,2,20,12,10,12,17,12,13,11,27,18,14,-0.7212617791891264,Low
+239,Ealing,Drugs,Possession Of Drugs,8,2,3176,2338,2454,2111,2028,1651,1472,1298,1255,1212,1042,1.2378370875932077,High
+240,Ealing,Fraud or Forgery,Counted per Victim,9,3,1660,1876,1913,1712,735,90,0,0,0,0,0,0.1503368554063118,High
+241,Ealing,Fraud or Forgery,Other Fraud & Forgery,10,3,399,581,595,499,534,72,58,56,57,61,46,-0.41966556291355256,Medium
+242,Ealing,Other Notifiable Offences,Going Equipped,11,4,30,9,31,25,21,16,17,17,28,35,19,-0.7146015756644541,Low
+243,Ealing,Other Notifiable Offences,Other Notifiable,12,4,412,410,512,529,467,419,460,538,597,630,667,-0.2539374985412921,Medium
+244,Ealing,Robbery,Business Property,13,5,100,97,95,98,94,74,64,54,65,78,53,-0.6538827201978591,Low
+245,Ealing,Robbery,Personal Property,14,5,1333,1200,1583,1398,1210,863,582,590,612,772,805,0.3040765534341623,High
+246,Ealing,Sexual Offences,Other Sexual,15,6,253,267,254,305,275,330,354,374,364,386,431,-0.4279908173193928,Medium
+247,Ealing,Sexual Offences,Rape,16,6,56,74,106,116,108,133,137,195,186,237,266,-0.612811465129047,Low
+248,Ealing,Theft and Handling,Handling Stolen Goods,17,7,77,56,64,87,62,46,48,52,74,47,30,-0.6733083138114864,Low
+249,Ealing,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,99,119,151,256,228,188,352,433,377,0,0,-0.49159576098001256,Medium
+250,Ealing,Theft and Handling,Other Theft,19,7,2856,2710,3117,3216,4078,3587,3373,3423,3506,3298,3384,2.5790910740701154,High
+251,Ealing,Theft and Handling,Other Theft Person,20,7,917,991,1077,1063,1002,951,541,589,606,582,673,0.12269701077892209,High
+252,Ealing,Theft and Handling,Theft From Motor Vehicle,21,7,3498,3990,4227,3740,3206,3050,2600,2240,2188,2192,2517,2.4539902511983556,High
+253,Ealing,Theft and Handling,Theft From Shops,22,7,1147,1328,1453,1554,1383,1454,1542,1648,1899,1687,1269,0.752197247252525,High
+254,Ealing,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1057,981,1177,923,903,642,693,738,843,1094,1227,0.14711775703605356,High
+255,Ealing,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,535,671,693,712,856,681,527,497,591,659,554,-0.09642368518279403,Medium
+256,Ealing,Violence Against the Person,Assault with Injury,25,8,2260,2156,2428,2224,2301,1673,1736,1804,1980,1988,1988,1.3243087300218688,High
+257,Ealing,Violence Against the Person,Common Assault,26,8,1713,1871,2166,2183,1869,1566,2139,2689,2918,2936,2936,1.3855826024488531,High
+258,Ealing,Violence Against the Person,Grievous Bodily Harm,27,8,218,504,248,0,0,0,0,0,0,0,0,-0.6284629434120267,Low
+259,Ealing,Violence Against the Person,Harassment,28,8,2529,2622,2976,2063,2114,2087,2284,2991,3079,3239,3430,1.7886359190836005,High
+260,Ealing,Violence Against the Person,Murder,29,8,5,3,6,5,5,9,5,5,4,7,2,-0.7309190742999011,Low
+261,Ealing,Violence Against the Person,Offensive Weapon,30,8,200,174,139,146,101,107,123,143,163,231,193,-0.592275837594641,Low
+262,Ealing,Violence Against the Person,Other violence,31,8,515,434,385,354,314,320,302,419,450,398,426,-0.34840138519955977,Medium
+263,Ealing,Violence Against the Person,Wounding/GBH,32,8,191,0,115,316,274,602,870,971,908,986,968,-0.2647048275728455,Medium
+264,Enfield,Burglary,Burglary in a Dwelling,0,0,2990,2924,2452,2810,2669,2447,2181,2101,1949,2058,2446,1.7639931660423134,High
+265,Enfield,Burglary,Burglary in Other Buildings,1,0,1014,1077,971,907,1059,1021,879,720,598,1085,1348,0.1791977373465581,High
+266,Enfield,Criminal Damage,Criminal Damage To Dwelling,2,1,919,887,833,767,584,492,496,453,482,501,441,-0.07977317637111347,Medium
+267,Enfield,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1833,1593,1344,1184,916,893,897,897,902,930,923,0.42484824401488525,High
+268,Enfield,Criminal Damage,Criminal Damage To Other Building,4,1,275,308,283,268,166,158,164,159,177,188,141,-0.5187915920390908,Medium
+269,Enfield,Criminal Damage,Other Criminal Damage,5,1,592,670,556,469,504,451,526,625,586,570,708,-0.1834503445718444,Medium
+270,Enfield,Drugs,Drug Trafficking,6,2,144,115,210,145,119,234,107,136,136,102,88,-0.5867256679907474,Low
+271,Enfield,Drugs,Other Drugs,7,2,7,11,1,6,8,13,7,9,9,9,3,-0.7282549928900321,Low
+272,Enfield,Drugs,Possession Of Drugs,8,2,2180,1633,1593,1403,1031,1388,1341,1132,934,934,823,0.6663916251763312,High
+273,Enfield,Fraud or Forgery,Counted per Victim,9,3,689,498,843,896,602,57,0,0,0,0,0,-0.3381890731283957,Medium
+274,Enfield,Fraud or Forgery,Other Fraud & Forgery,10,3,411,557,535,430,381,71,43,37,32,56,45,-0.45896076370911865,Medium
+275,Enfield,Other Notifiable Offences,Going Equipped,11,4,17,17,23,20,15,19,22,18,9,16,12,-0.7183756909951017,Low
+276,Enfield,Other Notifiable Offences,Other Notifiable,12,4,251,286,404,382,298,328,434,420,524,508,617,-0.3668279482844862,Medium
+277,Enfield,Robbery,Business Property,13,5,100,137,136,92,141,71,44,72,54,72,74,-0.6421163606376048,Low
+278,Enfield,Robbery,Personal Property,14,5,1039,1097,1181,1090,1019,879,741,885,771,930,1161,0.229815284134067,High
+279,Enfield,Sexual Offences,Other Sexual,15,6,192,217,213,184,172,201,286,290,345,376,416,-0.5030291103640332,Medium
+280,Enfield,Sexual Offences,Rape,16,6,51,93,121,118,117,139,167,191,204,252,262,-0.6028211598420387,Low
+281,Enfield,Theft and Handling,Handling Stolen Goods,17,7,118,94,65,68,46,75,54,56,49,41,28,-0.666759113678892,Low
+282,Enfield,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,85,88,124,238,234,249,223,349,453,0,0,-0.5093563037124718,Medium
+283,Enfield,Theft and Handling,Other Theft,19,7,2076,1978,1957,2259,2786,2795,3175,2856,2826,2945,2984,1.7845287935767193,High
+284,Enfield,Theft and Handling,Other Theft Person,20,7,498,544,521,449,592,599,463,464,523,576,677,-0.21963745038923013,Medium
+285,Enfield,Theft and Handling,Theft From Motor Vehicle,21,7,3190,2605,2746,2922,2963,3218,2112,2221,2000,2284,3090,1.9253920981235368,High
+286,Enfield,Theft and Handling,Theft From Shops,22,7,900,926,962,817,905,911,1010,1061,1198,1496,1323,0.22848324342913257,High
+287,Enfield,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1257,1061,1034,1126,793,876,770,636,806,1213,1710,0.19174112065135746,High
+288,Enfield,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,173,273,244,275,248,203,247,276,256,298,202,-0.4924837881166355,Medium
+289,Enfield,Violence Against the Person,Assault with Injury,25,8,1690,1675,1628,1548,1520,1343,1649,1694,1676,1660,1649,0.8648656902115635,High
+290,Enfield,Violence Against the Person,Common Assault,26,8,1025,1267,1378,1341,1195,1084,1546,1798,1965,2083,2272,0.6623955030615278,High
+291,Enfield,Violence Against the Person,Grievous Bodily Harm,27,8,95,308,132,0,0,0,0,0,0,0,0,-0.6767494189659004,Low
+292,Enfield,Violence Against the Person,Harassment,28,8,779,817,836,865,1128,1367,1692,2235,2512,2545,2963,0.6215462547768715,High
+293,Enfield,Violence Against the Person,Murder,29,8,9,3,3,5,3,5,5,6,1,8,4,-0.7316960980444461,Low
+294,Enfield,Violence Against the Person,Offensive Weapon,30,8,207,192,198,177,102,131,191,139,189,245,219,-0.5667450574167308,Low
+295,Enfield,Violence Against the Person,Other violence,31,8,203,229,237,180,174,204,270,284,391,388,479,-0.49503686613442655,Medium
+296,Enfield,Violence Against the Person,Wounding/GBH,32,8,130,0,69,148,174,433,670,622,731,856,814,-0.4056791355117409,Medium
+297,Greenwich,Burglary,Burglary in a Dwelling,0,0,2137,1999,1916,1643,1547,1451,1353,1131,1079,1573,1826,0.846328123734559,High
+298,Greenwich,Burglary,Burglary in Other Buildings,1,0,1389,1168,925,915,780,940,800,742,704,1128,1070,0.19218513421966896,High
+299,Greenwich,Criminal Damage,Criminal Damage To Dwelling,2,1,1330,1360,1102,936,645,602,532,568,645,632,520,0.1208099531135983,High
+300,Greenwich,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1727,1401,1275,991,879,787,773,948,974,1107,785,0.3467018559920645,High
+301,Greenwich,Criminal Damage,Criminal Damage To Other Building,4,1,278,295,251,292,209,187,175,180,215,207,166,-0.5050271714214348,Medium
+302,Greenwich,Criminal Damage,Other Criminal Damage,5,1,748,730,633,617,531,467,514,593,653,673,713,-0.1271716247883641,Medium
+303,Greenwich,Drugs,Drug Trafficking,6,2,140,143,129,254,162,117,144,111,130,215,83,-0.5885017222639934,Low
+304,Greenwich,Drugs,Other Drugs,7,2,4,8,8,10,5,9,11,11,1,8,1,-0.7286990064583436,Low
+305,Greenwich,Drugs,Possession Of Drugs,8,2,1854,1384,983,1132,1139,1186,1101,820,723,755,773,0.40964077930021703,High
+306,Greenwich,Fraud or Forgery,Counted per Victim,9,3,898,700,941,695,464,72,0,0,0,0,0,-0.31765344559398967,Medium
+307,Greenwich,Fraud or Forgery,Other Fraud & Forgery,10,3,426,466,489,323,332,55,45,45,56,49,46,-0.487821645649365,Medium
+308,Greenwich,Other Notifiable Offences,Going Equipped,11,4,14,15,16,16,11,11,6,7,14,13,10,-0.7239258605989952,Low
+309,Greenwich,Other Notifiable Offences,Other Notifiable,12,4,371,483,405,338,366,390,451,512,525,649,640,-0.3097722047564609,Medium
+310,Greenwich,Robbery,Business Property,13,5,124,62,150,81,66,42,51,59,42,58,68,-0.6609869372908428,Low
+311,Greenwich,Robbery,Personal Property,14,5,1060,801,722,798,516,433,359,408,446,580,576,-0.1208444314399255,Medium
+312,Greenwich,Sexual Offences,Other Sexual,15,6,275,286,295,322,260,220,291,347,374,418,434,-0.4397571768796471,Medium
+313,Greenwich,Sexual Offences,Rape,16,6,80,80,87,95,91,117,175,172,189,273,287,-0.6155865499309937,Low
+314,Greenwich,Theft and Handling,Handling Stolen Goods,17,7,72,78,43,97,43,42,55,41,52,44,25,-0.6780814596708348,Low
+315,Greenwich,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,244,253,176,151,140,163,211,296,355,0,0,-0.5153504868846768,Medium
+316,Greenwich,Theft and Handling,Other Theft,19,7,2666,2512,2706,2918,3374,2823,2776,2645,2886,2881,2897,2.0729156061950267,High
+317,Greenwich,Theft and Handling,Other Theft Person,20,7,495,658,602,626,778,631,474,487,604,569,493,-0.14171306915056514,Medium
+318,Greenwich,Theft and Handling,Theft From Motor Vehicle,21,7,3374,2547,2547,2024,1658,1669,1512,1245,1471,1629,1890,1.2671419831017656,High
+319,Greenwich,Theft and Handling,Theft From Shops,22,7,1292,1341,1329,1124,1151,1251,1467,1407,1461,1663,1564,0.5762568708091005,High
+320,Greenwich,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1278,926,836,762,585,604,572,727,879,1016,1131,0.05964708407869172,High
+321,Greenwich,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,331,418,415,433,353,320,278,298,386,352,345,-0.37737327053188396,Medium
+322,Greenwich,Violence Against the Person,Assault with Injury,25,8,2785,2385,2327,2241,1911,1515,1704,1764,1928,1907,1933,1.3240867232377131,High
+323,Greenwich,Violence Against the Person,Common Assault,26,8,1268,1404,1424,1320,1326,1307,1770,2216,2350,2615,2568,0.8606475613126043,High
+324,Greenwich,Violence Against the Person,Grievous Bodily Harm,27,8,221,418,184,0,0,0,0,0,0,0,0,-0.6447804420474736,Low
+325,Greenwich,Violence Against the Person,Harassment,28,8,1937,1493,1247,1030,1477,1449,1875,2589,3078,2969,3298,1.059343633131992,High
+326,Greenwich,Violence Against the Person,Murder,29,8,4,7,4,6,4,4,0,7,4,7,11,-0.7316960980444461,Low
+327,Greenwich,Violence Against the Person,Offensive Weapon,30,8,194,143,133,132,86,87,109,115,120,217,184,-0.611923437992424,Low
+328,Greenwich,Violence Against the Person,Other violence,31,8,265,375,272,248,323,280,291,321,388,421,427,-0.42943386141640516,Medium
+329,Greenwich,Violence Against the Person,Wounding/GBH,32,8,157,0,111,275,267,511,749,802,799,897,885,-0.3286427814096988,Medium
+330,Hackney,Burglary,Burglary in a Dwelling,0,0,1565,1619,1387,1365,1411,1544,1410,1352,1470,1936,2352,0.720561280510332,High
+331,Hackney,Burglary,Burglary in Other Buildings,1,0,1089,1127,1102,961,990,1252,1240,1144,1252,1371,1310,0.3913252196073684,High
+332,Hackney,Criminal Damage,Criminal Damage To Dwelling,2,1,754,696,643,597,511,485,445,446,475,456,407,-0.17534709695015985,Medium
+333,Hackney,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1041,903,895,763,656,597,738,802,695,709,591,0.05087781610453996,High
+334,Hackney,Criminal Damage,Criminal Damage To Other Building,4,1,249,237,250,253,227,196,227,233,257,265,202,-0.49981001199377495,Medium
+335,Hackney,Criminal Damage,Other Criminal Damage,5,1,560,527,482,471,477,397,492,540,555,594,674,-0.23650996598506643,Medium
+336,Hackney,Drugs,Drug Trafficking,6,2,182,273,170,427,154,243,176,155,161,129,98,-0.5206786497044146,Medium
+337,Hackney,Drugs,Other Drugs,7,2,30,34,27,24,15,11,10,7,9,9,8,-0.7175986672505567,Low
+338,Hackney,Drugs,Possession Of Drugs,8,2,4426,3603,2567,2029,2052,1631,1125,1157,1196,1129,1353,1.4601768819251821,High
+339,Hackney,Fraud or Forgery,Counted per Victim,9,3,505,509,516,491,525,31,0,0,0,0,0,-0.45008049234288905,Medium
+340,Hackney,Fraud or Forgery,Other Fraud & Forgery,10,3,358,401,319,284,317,43,28,30,18,32,48,-0.5365521347715501,Low
+341,Hackney,Other Notifiable Offences,Going Equipped,11,4,49,35,30,16,25,33,27,23,17,32,25,-0.707830368747704,Low
+342,Hackney,Other Notifiable Offences,Other Notifiable,12,4,379,386,340,301,318,344,413,447,513,496,501,-0.35417356158760904,Medium
+343,Hackney,Robbery,Business Property,13,5,95,119,110,96,59,55,74,74,75,78,109,-0.6521066659246131,Low
+344,Hackney,Robbery,Personal Property,14,5,1043,880,1072,1076,1216,999,899,953,976,1398,1495,0.2755486816701496,High
+345,Hackney,Sexual Offences,Other Sexual,15,6,299,321,310,229,255,267,351,400,466,470,478,-0.4144484034858926,Medium
+346,Hackney,Sexual Offences,Rape,16,6,128,120,120,150,131,145,182,224,245,332,303,-0.5757363321750383,Low
+347,Hackney,Theft and Handling,Handling Stolen Goods,17,7,120,88,60,67,47,57,65,54,58,45,30,-0.6677581442075928,Low
+348,Hackney,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,288,303,264,203,194,156,198,323,267,0,0,-0.49237278472455764,Medium
+349,Hackney,Theft and Handling,Other Theft,19,7,3530,3508,3852,4679,4596,4322,3804,3819,3887,3708,3938,3.2596528708995387,High
+350,Hackney,Theft and Handling,Other Theft Person,20,7,1321,1585,1991,2631,3291,3033,1990,2398,2727,3476,2256,1.591271887969147,High
+351,Hackney,Theft and Handling,Theft From Motor Vehicle,21,7,2534,2100,2373,1859,2268,1945,1569,1694,1607,1871,2080,1.2562636506781342,High
+352,Hackney,Theft and Handling,Theft From Shops,22,7,681,682,643,773,707,748,733,730,1180,1103,891,0.02723409359195357,Medium
+353,Hackney,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1063,818,777,936,726,583,566,564,652,906,918,0.00592144231300246,Medium
+354,Hackney,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1191,1585,1510,1578,1599,1371,1328,1277,1437,1708,1688,0.6931434426670979,High
+355,Hackney,Violence Against the Person,Assault with Injury,25,8,2194,2186,2064,1837,1935,1544,1664,1795,1826,1879,1840,1.1559165842397394,High
+356,Hackney,Violence Against the Person,Common Assault,26,8,1446,1450,1547,1537,1575,1505,2070,2410,2555,2676,2709,1.0504633617657626,High
+357,Hackney,Violence Against the Person,Grievous Bodily Harm,27,8,158,433,248,0,0,0,0,0,0,0,0,-0.6430043877742277,Low
+358,Hackney,Violence Against the Person,Harassment,28,8,1750,1706,1662,1322,1605,1616,2020,2681,2943,3111,3177,1.1847774661799857,High
+359,Hackney,Violence Against the Person,Murder,29,8,8,8,5,2,4,7,6,6,1,3,8,-0.7309190742999011,Low
+360,Hackney,Violence Against the Person,Offensive Weapon,30,8,356,240,243,187,125,149,156,213,221,330,280,-0.5263398227003859,Medium
+361,Hackney,Violence Against the Person,Other violence,31,8,451,479,407,275,282,317,307,412,449,483,437,-0.361055771896437,Medium
+362,Hackney,Violence Against the Person,Wounding/GBH,32,8,214,0,105,247,278,663,887,927,942,1092,991,-0.26292877329959957,Medium
+363,Hammersmith and Fulham,Burglary,Burglary in a Dwelling,0,0,1861,1419,1668,1846,1253,1010,966,1031,935,1329,1380,0.5946834338940269,High
+364,Hammersmith and Fulham,Burglary,Burglary in Other Buildings,1,0,629,554,599,683,618,521,487,549,597,1067,907,-0.15481146941575383,Medium
+365,Hammersmith and Fulham,Criminal Damage,Criminal Damage To Dwelling,2,1,610,616,576,468,395,262,307,344,344,327,306,-0.30078092999815337,Medium
+366,Hammersmith and Fulham,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,859,753,802,717,625,506,501,539,516,507,428,-0.09031849861851116,Medium
+367,Hammersmith and Fulham,Criminal Damage,Criminal Damage To Other Building,4,1,256,246,238,207,175,167,193,151,169,142,124,-0.5361081212032386,Medium
+368,Hammersmith and Fulham,Criminal Damage,Other Criminal Damage,5,1,415,378,416,356,288,277,373,445,389,397,406,-0.36571791436370754,Medium
+369,Hammersmith and Fulham,Drugs,Drug Trafficking,6,2,134,130,106,107,100,113,83,81,57,59,89,-0.6350121435446211,Low
+370,Hammersmith and Fulham,Drugs,Other Drugs,7,2,21,16,21,32,20,45,21,19,27,8,9,-0.7114934806862737,Low
+371,Hammersmith and Fulham,Drugs,Possession Of Drugs,8,2,1971,1858,1804,1439,1565,1865,1753,1334,1260,1007,836,0.9121531352367361,High
+372,Hammersmith and Fulham,Fraud or Forgery,Counted per Victim,9,3,455,487,528,431,497,47,0,0,0,0,0,-0.4647329400971679,Medium
+373,Hammersmith and Fulham,Fraud or Forgery,Other Fraud & Forgery,10,3,236,314,261,274,379,42,30,21,28,46,39,-0.5601958572841365,Low
+374,Hammersmith and Fulham,Other Notifiable Offences,Going Equipped,11,4,44,45,64,81,46,44,63,52,56,50,37,-0.6811895546490152,Low
+375,Hammersmith and Fulham,Other Notifiable Offences,Other Notifiable,12,4,230,275,303,335,315,345,390,410,435,405,382,-0.3989079285949908,Medium
+376,Hammersmith and Fulham,Robbery,Business Property,13,5,45,45,71,42,34,40,22,25,30,30,59,-0.6968410329319948,Low
+377,Hammersmith and Fulham,Robbery,Personal Property,14,5,666,651,783,774,689,541,349,334,373,536,716,-0.16335873060574985,Medium
+378,Hammersmith and Fulham,Sexual Offences,Other Sexual,15,6,180,158,157,146,175,183,209,250,276,282,282,-0.5436563518645338,Low
+379,Hammersmith and Fulham,Sexual Offences,Rape,16,6,68,60,81,69,88,87,127,126,164,161,289,-0.6395632826198138,Low
+380,Hammersmith and Fulham,Theft and Handling,Handling Stolen Goods,17,7,96,100,115,136,96,89,75,58,71,35,38,-0.6433373979504613,Low
+381,Hammersmith and Fulham,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,48,109,163,153,142,105,214,306,384,0,0,-0.5558667249930995,Low
+382,Hammersmith and Fulham,Theft and Handling,Other Theft,19,7,3126,3164,3092,3443,3623,3176,3181,3121,2897,2819,3153,2.4633145361328967,High
+383,Hammersmith and Fulham,Theft and Handling,Other Theft Person,20,7,858,1020,1056,1159,1202,986,758,824,634,650,738,0.20705958875810357,High
+384,Hammersmith and Fulham,Theft and Handling,Theft From Motor Vehicle,21,7,2296,2333,2178,2653,2300,1750,1737,1826,1692,2016,1857,1.3468424186136765,High
+385,Hammersmith and Fulham,Theft and Handling,Theft From Shops,22,7,1178,1686,1844,1818,1697,1651,1657,1575,1563,1445,1495,0.8921725246627196,High
+386,Hammersmith and Fulham,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,565,644,591,691,597,490,625,655,885,912,638,-0.09864375302435144,Medium
+387,Hammersmith and Fulham,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1020,1303,1303,1226,1328,958,759,681,925,1216,1038,0.31872900118844116,High
+388,Hammersmith and Fulham,Violence Against the Person,Assault with Injury,25,8,1657,1529,1540,1280,1270,1006,1062,1142,1201,1185,1258,0.56116040948651,High
+389,Hammersmith and Fulham,Violence Against the Person,Common Assault,26,8,892,1020,1272,1244,1154,1051,1356,1580,1738,1857,1921,0.5189791204969193,High
+390,Hammersmith and Fulham,Violence Against the Person,Grievous Bodily Harm,27,8,88,234,131,0,0,0,0,0,0,0,0,-0.6858516971162857,Low
+391,Hammersmith and Fulham,Violence Against the Person,Harassment,28,8,1793,1642,1504,1355,1455,1315,1709,2097,2339,2275,2407,0.9521143563847694,High
+392,Hammersmith and Fulham,Violence Against the Person,Murder,29,8,1,2,3,4,5,1,0,2,3,1,3,-0.7338051624939257,Low
+393,Hammersmith and Fulham,Violence Against the Person,Offensive Weapon,30,8,174,159,165,140,108,113,111,115,136,161,161,-0.6006010920004813,Low
+394,Hammersmith and Fulham,Violence Against the Person,Other violence,31,8,222,229,249,201,172,187,171,195,220,217,492,-0.5312239719518123,Medium
+395,Hammersmith and Fulham,Violence Against the Person,Wounding/GBH,32,8,93,0,60,165,138,370,463,591,555,576,612,-0.4658429740179466,Medium
+396,Haringey,Burglary,Burglary in a Dwelling,0,0,2883,2855,2400,2736,2634,1979,2181,1864,1854,1830,2613,1.6377823092497747,High
+397,Haringey,Burglary,Burglary in Other Buildings,1,0,863,873,876,883,809,769,708,699,620,1093,1073,0.051987850025318666,High
+398,Haringey,Criminal Damage,Criminal Damage To Dwelling,2,1,1050,931,792,690,620,529,565,545,545,541,495,-0.04047797557554736,Medium
+399,Haringey,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1491,1302,1083,1104,922,684,750,774,810,754,673,0.2540140236070427,High
+400,Haringey,Criminal Damage,Criminal Damage To Other Building,4,1,271,215,232,254,199,214,258,243,250,219,181,-0.49903298824922987,Medium
+401,Haringey,Criminal Damage,Other Criminal Damage,5,1,699,669,601,667,444,441,579,590,639,669,736,-0.14459915734458978,Medium
+402,Haringey,Drugs,Drug Trafficking,6,2,253,178,199,85,220,102,141,178,104,114,111,-0.5740712812938702,Low
+403,Haringey,Drugs,Other Drugs,7,2,12,13,8,10,9,8,3,4,10,8,14,-0.7275889725375649,Low
+404,Haringey,Drugs,Possession Of Drugs,8,2,2342,2078,1575,1525,1355,1129,1044,1161,1468,1276,1193,0.7820571597214722,High
+405,Haringey,Fraud or Forgery,Counted per Victim,9,3,1051,955,912,921,546,59,0,0,0,0,0,-0.24283715933350505,Medium
+406,Haringey,Fraud or Forgery,Other Fraud & Forgery,10,3,379,355,338,271,364,53,33,34,56,55,52,-0.5271168464449311,Medium
+407,Haringey,Other Notifiable Offences,Going Equipped,11,4,16,22,11,12,15,14,22,27,21,12,16,-0.7183756909951017,Low
+408,Haringey,Other Notifiable Offences,Other Notifiable,12,4,280,254,236,232,274,267,380,435,564,494,546,-0.4117843220760238,Medium
+409,Haringey,Robbery,Business Property,13,5,141,142,130,96,75,66,57,84,80,107,131,-0.6394522792277358,Low
+410,Haringey,Robbery,Personal Property,14,5,1081,950,929,1373,1073,860,957,1179,1191,1732,1732,0.3287193064754495,High
+411,Haringey,Sexual Offences,Other Sexual,15,6,187,235,274,210,240,186,292,374,386,401,418,-0.471504147013918,Medium
+412,Haringey,Sexual Offences,Rape,16,6,65,89,138,142,124,135,184,201,235,262,343,-0.5903887799293172,Low
+413,Haringey,Theft and Handling,Handling Stolen Goods,17,7,154,71,62,48,40,54,46,50,49,56,35,-0.6724202866748634,Low
+414,Haringey,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,67,44,39,59,159,165,292,278,442,0,0,-0.5646359929672513,Low
+415,Haringey,Theft and Handling,Other Theft,19,7,2905,2796,2829,2592,3652,3239,3242,3415,3250,3528,3342,2.36307847308658,High
+416,Haringey,Theft and Handling,Other Theft Person,20,7,1046,1029,962,1122,1260,1370,1154,1274,1824,2284,1740,0.4894522182042058,High
+417,Haringey,Theft and Handling,Theft From Motor Vehicle,21,7,3479,2783,2670,2900,2800,2577,2069,1827,1929,2455,3044,1.820715899394105,High
+418,Haringey,Theft and Handling,Theft From Shops,22,7,716,850,996,878,871,846,1065,1392,1575,1450,1228,0.2838739360759899,High
+419,Haringey,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1137,934,914,1347,881,821,781,749,1048,1125,1221,0.21982497884705868,High
+420,Haringey,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,285,435,466,487,423,392,436,509,538,468,446,-0.29534176378633775,Medium
+421,Haringey,Violence Against the Person,Assault with Injury,25,8,2198,2033,2044,1968,1919,1387,1777,1796,1956,2021,1936,1.1595796961783091,High
+422,Haringey,Violence Against the Person,Common Assault,26,8,1092,1095,1237,1202,1127,1046,1575,2020,2229,2513,2594,0.6650595844713967,High
+423,Haringey,Violence Against the Person,Grievous Bodily Harm,27,8,200,446,241,0,0,0,0,0,0,0,0,-0.63767622495449,Low
+424,Haringey,Violence Against the Person,Harassment,28,8,1136,1064,864,752,1061,1034,1659,2267,2880,2955,3178,0.6754939033267165,High
+425,Haringey,Violence Against the Person,Murder,29,8,4,8,5,7,5,4,3,7,5,4,8,-0.7308080709078232,Low
+426,Haringey,Violence Against the Person,Offensive Weapon,30,8,228,188,148,133,116,105,118,182,212,303,302,-0.5774013830562064,Low
+427,Haringey,Violence Against the Person,Other violence,31,8,322,380,269,322,238,280,325,369,511,522,539,-0.40135000322070397,Medium
+428,Haringey,Violence Against the Person,Wounding/GBH,32,8,127,0,102,329,312,660,853,956,936,1080,1019,-0.26159673259466515,Medium
+429,Harrow,Burglary,Burglary in a Dwelling,0,0,1569,1741,1744,1995,1850,1658,1474,1307,1617,1684,1597,0.9239194947969903,High
+430,Harrow,Burglary,Burglary in Other Buildings,1,0,749,609,585,606,673,448,363,363,378,702,646,-0.2062060399478078,Medium
+431,Harrow,Criminal Damage,Criminal Damage To Dwelling,2,1,442,447,338,301,276,253,204,215,212,220,234,-0.4377591158222454,Medium
+432,Harrow,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,841,822,798,696,549,503,537,546,574,492,404,-0.08499033579877338,Medium
+433,Harrow,Criminal Damage,Criminal Damage To Other Building,4,1,152,191,159,125,120,108,102,103,110,87,82,-0.6062622649964526,Low
+434,Harrow,Criminal Damage,Other Criminal Damage,5,1,366,445,380,338,306,283,340,333,319,341,378,-0.3909156843653841,Medium
+435,Harrow,Drugs,Drug Trafficking,6,2,62,72,49,58,87,76,86,129,66,85,34,-0.6600989101542197,Low
+436,Harrow,Drugs,Other Drugs,7,2,2,2,4,6,3,4,8,4,3,5,4,-0.7321401116127576,Low
+437,Harrow,Drugs,Possession Of Drugs,8,2,957,845,897,616,631,829,857,496,402,447,539,-0.01128408345906745,Medium
+438,Harrow,Fraud or Forgery,Counted per Victim,9,3,530,617,680,566,406,54,0,0,0,0,0,-0.4194435561293968,Medium
+439,Harrow,Fraud or Forgery,Other Fraud & Forgery,10,3,170,237,313,333,249,56,20,15,25,20,27,-0.5787334237611408,Low
+440,Harrow,Other Notifiable Offences,Going Equipped,11,4,10,8,10,5,10,8,14,11,7,3,4,-0.7269229521850977,Low
+441,Harrow,Other Notifiable Offences,Other Notifiable,12,4,201,211,214,223,223,229,229,201,275,248,310,-0.5134634292193531,Medium
+442,Harrow,Robbery,Business Property,13,5,58,51,47,59,30,20,17,30,31,22,35,-0.6980620702448515,Low
+443,Harrow,Robbery,Personal Property,14,5,514,419,417,589,649,494,298,285,351,296,337,-0.29034661114283355,Medium
+444,Harrow,Sexual Offences,Other Sexual,15,6,122,145,118,128,138,148,160,175,200,219,206,-0.5880577086956819,Low
+445,Harrow,Sexual Offences,Rape,16,6,42,62,59,50,49,75,97,82,105,122,154,-0.6672031272472034,Low
+446,Harrow,Theft and Handling,Handling Stolen Goods,17,7,37,32,26,38,29,20,14,20,21,9,10,-0.7098284298051057,Low
+447,Harrow,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,97,152,118,78,85,71,123,256,204,0,0,-0.6047082175073625,Low
+448,Harrow,Theft and Handling,Other Theft,19,7,1520,1489,1575,1571,1607,1392,1448,1567,1565,1471,1596,0.7883843530699107,High
+449,Harrow,Theft and Handling,Other Theft Person,20,7,443,442,520,323,305,353,288,283,369,322,444,-0.36693895167656415,Medium
+450,Harrow,Theft and Handling,Theft From Motor Vehicle,21,7,1582,1642,1758,1462,1624,1362,1171,1161,1087,1223,1195,0.6901463510809954,High
+451,Harrow,Theft and Handling,Theft From Shops,22,7,696,722,645,490,501,587,606,794,888,722,831,-0.07799712209786755,Medium
+452,Harrow,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,491,334,366,332,263,236,192,207,290,373,521,-0.4352060378044544,Medium
+453,Harrow,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,138,151,143,177,171,116,130,153,155,144,166,-0.5880577086956819,Low
+454,Harrow,Violence Against the Person,Assault with Injury,25,8,1138,1075,1029,909,1009,823,842,903,909,945,947,0.22260006364900542,High
+455,Harrow,Violence Against the Person,Common Assault,26,8,723,866,810,712,741,755,1019,1268,1309,1375,1519,0.17442459148720968,High
+456,Harrow,Violence Against the Person,Grievous Bodily Harm,27,8,83,197,125,0,0,0,0,0,0,0,0,-0.6911798599360235,Low
+457,Harrow,Violence Against the Person,Harassment,28,8,728,961,1034,881,875,904,1060,1326,1382,1531,1793,0.2796558071770308,High
+458,Harrow,Violence Against the Person,Murder,29,8,1,3,4,0,0,0,1,3,1,2,0,-0.7346931896305486,Low
+459,Harrow,Violence Against the Person,Offensive Weapon,30,8,103,89,62,36,55,45,55,72,60,110,95,-0.6720872764986298,Low
+460,Harrow,Violence Against the Person,Other violence,31,8,202,207,230,127,150,218,163,252,260,266,270,-0.5353310974586935,Medium
+461,Harrow,Violence Against the Person,Wounding/GBH,32,8,67,0,69,193,154,320,381,429,418,471,501,-0.5106883444174063,Medium
+462,Havering,Burglary,Burglary in a Dwelling,0,0,1402,1738,1602,2037,2121,1941,1576,1393,1375,1716,1474,0.9494502749749005,High
+463,Havering,Burglary,Burglary in Other Buildings,1,0,1038,958,724,786,698,539,547,550,458,875,861,-0.03703687042113338,Medium
+464,Havering,Criminal Damage,Criminal Damage To Dwelling,2,1,543,492,449,396,350,292,300,331,331,382,308,-0.3494004157282606,Medium
+465,Havering,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1496,1130,1009,845,717,734,673,757,842,831,647,0.17442459148720968,High
+466,Havering,Criminal Damage,Criminal Damage To Other Building,4,1,335,269,237,192,145,137,157,146,149,141,113,-0.539993239925964,Low
+467,Havering,Criminal Damage,Other Criminal Damage,5,1,582,544,495,411,391,339,437,433,501,499,430,-0.2773592142697227,Medium
+468,Havering,Drugs,Drug Trafficking,6,2,55,88,97,103,100,112,108,80,74,52,37,-0.6454464623999409,Low
+469,Havering,Drugs,Other Drugs,7,2,1,1,1,1,4,4,1,1,2,3,0,-0.7343601794543151,Low
+470,Havering,Drugs,Possession Of Drugs,8,2,1032,910,966,964,958,912,651,649,658,469,494,0.11858988527204088,High
+471,Havering,Fraud or Forgery,Counted per Victim,9,3,1104,573,622,726,300,30,0,0,0,0,0,-0.3637198533063059,Medium
+472,Havering,Fraud or Forgery,Other Fraud & Forgery,10,3,104,164,183,165,193,20,18,14,17,24,21,-0.6386752554831908,Low
+473,Havering,Other Notifiable Offences,Going Equipped,11,4,7,12,12,26,16,7,8,9,11,6,6,-0.724147867383151,Low
+474,Havering,Other Notifiable Offences,Other Notifiable,12,4,192,171,212,213,236,246,313,356,392,356,402,-0.47738732679404516,Medium
+475,Havering,Robbery,Business Property,13,5,54,58,42,45,53,25,21,25,28,69,66,-0.6971740431082285,Low
+476,Havering,Robbery,Personal Property,14,5,270,283,357,432,393,266,270,295,291,561,610,-0.41899954256108535,Medium
+477,Havering,Sexual Offences,Other Sexual,15,6,131,168,153,139,127,135,293,279,243,307,290,-0.5509825757416732,Low
+478,Havering,Sexual Offences,Rape,16,6,37,49,60,68,54,68,103,105,117,172,172,-0.6627629915640887,Low
+479,Havering,Theft and Handling,Handling Stolen Goods,17,7,52,32,41,51,55,53,26,27,34,47,25,-0.6949539752666711,Low
+480,Havering,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,156,114,132,115,135,200,202,231,241,0,0,-0.5667450574167308,Low
+481,Havering,Theft and Handling,Other Theft,19,7,1833,1857,1955,2173,2335,2206,2107,2140,2152,2116,2085,1.3460653948691315,High
+482,Havering,Theft and Handling,Other Theft Person,20,7,379,533,491,341,374,375,371,350,385,401,360,-0.33663502563930553,Medium
+483,Havering,Theft and Handling,Theft From Motor Vehicle,21,7,1647,1237,1557,1482,1641,1644,1141,1074,959,1067,1160,0.63830776698063,High
+484,Havering,Theft and Handling,Theft From Shops,22,7,1361,1429,1281,1227,915,947,1066,1097,1202,1346,1162,0.4321744678920247,High
+485,Havering,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1147,896,897,942,938,789,751,787,837,1212,1383,0.15011484862215607,High
+486,Havering,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,145,151,168,237,218,159,109,173,160,192,152,-0.567411077769198,Low
+487,Havering,Violence Against the Person,Assault with Injury,25,8,1344,1351,1375,1204,1206,967,1084,1167,1403,1395,1355,0.49611242172887804,High
+488,Havering,Violence Against the Person,Common Assault,26,8,666,724,938,845,809,784,943,1349,1577,1607,1673,0.22237805686484968,High
+489,Havering,Violence Against the Person,Grievous Bodily Harm,27,8,78,233,134,0,0,0,0,0,0,0,0,-0.6867397242529086,Low
+490,Havering,Violence Against the Person,Harassment,28,8,612,774,1006,854,963,1007,1246,1673,2104,2124,2327,0.40042749775775377,High
+491,Havering,Violence Against the Person,Murder,29,8,1,1,0,1,1,2,0,0,2,4,2,-0.735248206590938,Low
+492,Havering,Violence Against the Person,Offensive Weapon,30,8,133,90,74,77,73,68,68,77,93,125,161,-0.6525506794929246,Low
+493,Havering,Violence Against the Person,Other violence,31,8,98,112,122,135,113,152,164,234,238,257,331,-0.5842835933650343,Low
+494,Havering,Violence Against the Person,Wounding/GBH,32,8,94,0,103,221,200,322,490,581,595,609,588,-0.4468613939726308,Medium
+495,Hillingdon,Burglary,Burglary in a Dwelling,0,0,1894,2428,2102,2600,2445,1988,1865,1476,1514,1781,1625,1.2965578820024013,High
+496,Hillingdon,Burglary,Burglary in Other Buildings,1,0,1066,964,992,1122,931,873,813,736,714,1235,1118,0.17531261862383266,High
+497,Hillingdon,Criminal Damage,Criminal Damage To Dwelling,2,1,836,747,611,543,473,432,428,419,491,422,425,-0.18333934117976652,Medium
+498,Hillingdon,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1764,1667,1510,1370,1017,938,1184,1008,1096,1321,959,0.5463969583401533,High
+499,Hillingdon,Criminal Damage,Criminal Damage To Other Building,4,1,368,234,307,237,206,210,209,201,196,202,146,-0.495480879702738,Medium
+500,Hillingdon,Criminal Damage,Other Criminal Damage,5,1,838,804,755,693,548,545,561,654,663,713,669,-0.06334467434358865,Medium
+501,Hillingdon,Drugs,Drug Trafficking,6,2,125,115,94,136,96,222,124,107,254,76,53,-0.594828915612432,Low
+502,Hillingdon,Drugs,Other Drugs,7,2,2,2,5,4,7,2,6,7,8,4,5,-0.7313630878682126,Low
+503,Hillingdon,Drugs,Possession Of Drugs,8,2,1798,1446,1333,1374,963,771,784,963,753,782,895,0.39443331458554876,High
+504,Hillingdon,Fraud or Forgery,Counted per Victim,9,3,995,924,935,546,520,29,0,0,0,0,0,-0.29778383841205086,Medium
+505,Hillingdon,Fraud or Forgery,Other Fraud & Forgery,10,3,282,257,236,257,259,39,15,21,41,57,58,-0.5799544610739974,Low
+506,Hillingdon,Other Notifiable Offences,Going Equipped,11,4,11,11,15,9,12,13,12,10,9,22,12,-0.7248138877356182,Low
+507,Hillingdon,Other Notifiable Offences,Other Notifiable,12,4,311,324,353,321,295,346,356,379,448,1800,1629,-0.3883626063475931,Medium
+508,Hillingdon,Robbery,Business Property,13,5,79,63,88,68,56,39,42,37,32,58,61,-0.6801905241203143,Low
+509,Hillingdon,Robbery,Personal Property,14,5,730,638,734,852,814,519,466,289,396,468,521,-0.13249978760810188,Medium
+510,Hillingdon,Sexual Offences,Other Sexual,15,6,200,198,224,199,172,180,285,277,318,409,375,-0.5082462697916931,Medium
+511,Hillingdon,Sexual Offences,Rape,16,6,43,60,77,76,85,111,125,146,147,184,197,-0.6395632826198138,Low
+512,Hillingdon,Theft and Handling,Handling Stolen Goods,17,7,64,51,60,69,34,53,31,39,31,42,18,-0.688182768349921,Low
+513,Hillingdon,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,92,226,174,236,238,107,309,379,387,0,0,-0.49770094754429545,Medium
+514,Hillingdon,Theft and Handling,Other Theft,19,7,2247,2021,2134,2570,2648,2613,2704,2757,2549,3926,4062,1.7329122162605097,High
+515,Hillingdon,Theft and Handling,Other Theft Person,20,7,451,526,462,490,496,451,405,400,410,456,494,-0.2820213567369933,Medium
+516,Hillingdon,Theft and Handling,Theft From Motor Vehicle,21,7,2827,3105,2430,2837,2282,1945,2149,1824,1764,2656,2904,1.6130285528164097,High
+517,Hillingdon,Theft and Handling,Theft From Shops,22,7,1038,1177,1131,1062,1115,1108,1363,1590,1749,2004,1943,0.521865208690944,High
+518,Hillingdon,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,981,723,660,697,561,461,497,553,755,1125,1193,-0.08254826117306023,Medium
+519,Hillingdon,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,307,295,263,318,330,279,295,343,307,406,313,-0.4323199496104298,Medium
+520,Hillingdon,Violence Against the Person,Assault with Injury,25,8,2330,2149,2093,1923,1750,1386,1639,1661,1727,1721,1759,1.1129582715056037,High
+521,Hillingdon,Violence Against the Person,Common Assault,26,8,744,951,1133,1149,1091,1155,1784,2053,2034,2344,2358,0.6063387900622033,High
+522,Hillingdon,Violence Against the Person,Grievous Bodily Harm,27,8,121,422,234,0,0,0,0,0,0,0,0,-0.6498865980830557,Low
+523,Hillingdon,Violence Against the Person,Harassment,28,8,2269,2006,2036,1662,1621,1431,2169,2534,2775,2871,3146,1.3177595298892744,High
+524,Hillingdon,Violence Against the Person,Murder,29,8,3,2,2,2,0,3,2,6,5,2,4,-0.7333611489256142,Low
+525,Hillingdon,Violence Against the Person,Offensive Weapon,30,8,158,136,99,95,59,81,63,81,98,176,210,-0.6395632826198138,Low
+526,Hillingdon,Violence Against the Person,Other violence,31,8,264,252,260,241,225,313,313,295,356,372,388,-0.45651868908340554,Medium
+527,Hillingdon,Violence Against the Person,Wounding/GBH,32,8,152,0,99,297,225,467,635,736,711,788,809,-0.3673829652448756,Medium
+528,Hounslow,Burglary,Burglary in a Dwelling,0,0,1663,2013,1786,1953,2051,1740,1238,1196,1162,1683,1691,0.9069359758090763,High
+529,Hounslow,Burglary,Burglary in Other Buildings,1,0,872,737,734,780,887,740,691,591,653,1123,1063,0.00592144231300246,Medium
+530,Hounslow,Criminal Damage,Criminal Damage To Dwelling,2,1,787,716,642,610,485,397,390,451,431,407,357,-0.19122058201729533,Medium
+531,Hounslow,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1515,1361,1307,1194,1060,949,870,963,970,937,860,0.39487732815386023,High
+532,Hounslow,Criminal Damage,Criminal Damage To Other Building,4,1,302,232,242,236,202,202,176,201,216,181,165,-0.5131304190431194,Medium
+533,Hounslow,Criminal Damage,Other Criminal Damage,5,1,626,621,605,604,524,450,518,569,617,590,621,-0.16624481879977449,Medium
+534,Hounslow,Drugs,Drug Trafficking,6,2,136,150,158,157,106,123,148,92,100,113,97,-0.6062622649964526,Low
+535,Hounslow,Drugs,Other Drugs,7,2,5,4,7,7,7,3,8,5,9,3,8,-0.7300310471632782,Low
+536,Hounslow,Drugs,Possession Of Drugs,8,2,1994,1684,1684,1618,1530,1395,1400,1017,1000,1110,1130,0.7426509555338281,High
+537,Hounslow,Fraud or Forgery,Counted per Victim,9,3,919,726,980,1086,517,45,0,0,0,0,0,-0.2618187393788209,Medium
+538,Hounslow,Fraud or Forgery,Other Fraud & Forgery,10,3,280,307,322,300,363,29,25,14,33,43,28,-0.5504275587812838,Low
+539,Hounslow,Other Notifiable Offences,Going Equipped,11,4,18,21,20,19,18,22,17,14,16,19,13,-0.7178206740347124,Low
+540,Hounslow,Other Notifiable Offences,Other Notifiable,12,4,368,338,339,402,335,278,350,424,523,540,528,-0.36349784652215017,Medium
+541,Hounslow,Robbery,Business Property,13,5,70,40,42,25,41,27,25,21,23,44,49,-0.7012811686151097,Low
+542,Hounslow,Robbery,Personal Property,14,5,687,609,595,659,727,458,388,367,384,439,619,-0.1951057007400208,Medium
+543,Hounslow,Sexual Offences,Other Sexual,15,6,188,201,213,188,212,217,327,350,331,349,350,-0.48893167957014366,Medium
+544,Hounslow,Sexual Offences,Rape,16,6,65,74,111,90,87,110,160,180,214,203,255,-0.6150315329706044,Low
+545,Hounslow,Theft and Handling,Handling Stolen Goods,17,7,53,55,49,68,60,41,46,31,33,49,27,-0.6877387547816095,Low
+546,Hounslow,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,53,99,107,125,183,103,221,347,429,0,0,-0.5510935791337511,Low
+547,Hounslow,Theft and Handling,Other Theft,19,7,2508,2317,2434,2699,3119,2682,2646,2683,2635,2874,2784,1.8971972365357577,High
+548,Hounslow,Theft and Handling,Other Theft Person,20,7,518,530,465,540,594,506,408,456,410,413,544,-0.24472421699882885,Medium
+549,Hounslow,Theft and Handling,Theft From Motor Vehicle,21,7,2142,2341,2178,2588,2545,1920,1747,1949,2033,2310,2576,1.4221027184424726,High
+550,Hounslow,Theft and Handling,Theft From Shops,22,7,1228,1330,1503,1397,1461,1516,1543,1640,1728,1645,1216,0.745315036943697,High
+551,Hounslow,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,794,741,625,684,619,427,495,535,816,821,940,-0.09942077676889652,Medium
+552,Hounslow,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,579,610,651,724,673,575,467,535,588,805,737,-0.13649590972290523,Medium
+553,Hounslow,Violence Against the Person,Assault with Injury,25,8,1971,1873,1939,1776,1736,1330,1444,1615,1665,1695,1768,0.9676548312756713,High
+554,Hounslow,Violence Against the Person,Common Assault,26,8,1457,1448,1633,1698,1491,1428,1761,2042,2057,2366,2566,0.9305796983216625,High
+555,Hounslow,Violence Against the Person,Grievous Bodily Harm,27,8,136,262,131,0,0,0,0,0,0,0,0,-0.6774154393183676,Low
+556,Hounslow,Violence Against the Person,Harassment,28,8,1489,1610,1604,1437,1669,1557,1919,2423,2642,2810,3058,1.0787692267456195,High
+557,Hounslow,Violence Against the Person,Murder,29,8,1,2,2,0,2,0,1,1,1,3,1,-0.7350261998067823,Low
+558,Hounslow,Violence Against the Person,Offensive Weapon,30,8,132,145,99,113,71,65,73,63,107,174,203,-0.6397852894039695,Low
+559,Hounslow,Violence Against the Person,Other violence,31,8,300,307,270,231,224,208,239,347,331,390,378,-0.4634008993922335,Medium
+560,Hounslow,Violence Against the Person,Wounding/GBH,32,8,106,0,74,189,205,473,621,675,701,739,786,-0.3982419082425236,Medium
+561,Islington,Burglary,Burglary in a Dwelling,0,0,1725,1672,1477,1660,1425,1270,1332,1431,1129,1490,1924,0.7203392737261762,High
+562,Islington,Burglary,Burglary in Other Buildings,1,0,1236,1316,1151,1160,1005,1152,1053,923,919,1296,1136,0.36446239872452374,High
+563,Islington,Criminal Damage,Criminal Damage To Dwelling,2,1,740,747,673,589,574,471,491,525,480,453,450,-0.1489282896356267,Medium
+564,Islington,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1100,1041,892,739,629,570,755,671,628,673,533,0.043662595619478384,High
+565,Islington,Criminal Damage,Criminal Damage To Other Building,4,1,281,256,245,232,226,206,251,220,248,179,184,-0.4958138898789716,Medium
+566,Islington,Criminal Damage,Other Criminal Damage,5,1,574,568,451,500,466,389,482,593,547,519,526,-0.2288507319316934,Medium
+567,Islington,Drugs,Drug Trafficking,6,2,322,155,170,155,220,212,157,125,117,106,64,-0.5548676944643987,Low
+568,Islington,Drugs,Other Drugs,7,2,17,14,26,17,17,11,13,4,11,13,8,-0.7217057927574378,Low
+569,Islington,Drugs,Possession Of Drugs,8,2,3142,2401,1760,1616,1526,1216,1163,1301,1706,1316,1178,1.0211584662572049,High
+570,Islington,Fraud or Forgery,Counted per Victim,9,3,389,433,541,388,552,33,0,0,0,0,0,-0.4768323098336558,Medium
+571,Islington,Fraud or Forgery,Other Fraud & Forgery,10,3,290,344,331,267,319,55,28,37,32,49,47,-0.5470974570189477,Low
+572,Islington,Other Notifiable Offences,Going Equipped,11,4,37,37,27,40,25,22,25,16,18,22,10,-0.7087183958843271,Low
+573,Islington,Other Notifiable Offences,Other Notifiable,12,4,389,381,354,328,364,369,436,487,505,486,495,-0.3350809781502153,Medium
+574,Islington,Robbery,Business Property,13,5,89,111,127,96,67,69,68,67,78,82,114,-0.6504416150434451,Low
+575,Islington,Robbery,Personal Property,14,5,1057,845,852,1103,1130,895,785,941,876,1730,1409,0.20561654466109125,High
+576,Islington,Sexual Offences,Other Sexual,15,6,214,179,206,182,205,214,278,325,338,412,405,-0.4984779712888405,Medium
+577,Islington,Sexual Offences,Rape,16,6,64,79,80,115,92,93,148,160,184,264,232,-0.6234677907685225,Low
+578,Islington,Theft and Handling,Handling Stolen Goods,17,7,185,86,106,119,78,91,63,70,57,43,55,-0.6412283335009819,Low
+579,Islington,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,190,244,289,196,131,127,228,336,308,0,0,-0.5086902833600045,Medium
+580,Islington,Theft and Handling,Other Theft,19,7,4719,4288,4532,4843,5327,4175,3790,4002,3645,3762,3928,3.62862814616638,High
+581,Islington,Theft and Handling,Other Theft Person,20,7,1301,1345,1639,2470,3646,3960,2935,3925,3561,6004,2849,2.0147498287462224,High
+582,Islington,Theft and Handling,Theft From Motor Vehicle,21,7,2591,2495,2292,1950,1765,1522,1385,1411,1445,1794,1800,1.134936943137022,High
+583,Islington,Theft and Handling,Theft From Shops,22,7,1133,1265,1356,1287,1098,938,1227,1305,1513,1515,1329,0.4984434929625133,High
+584,Islington,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,789,866,790,761,601,630,834,737,666,868,735,0.004700405000145885,Medium
+585,Islington,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1255,1791,1632,1471,1155,1041,1164,1014,966,1181,1150,0.5391817378550917,High
+586,Islington,Violence Against the Person,Assault with Injury,25,8,1861,1919,1689,1554,1572,1174,1437,1464,1487,1546,1596,0.8353387879188499,High
+587,Islington,Violence Against the Person,Common Assault,26,8,1431,1534,1550,1449,1378,1310,1841,2059,2017,2112,2137,0.8810721854549325,High
+588,Islington,Violence Against the Person,Grievous Bodily Harm,27,8,186,376,190,0,0,0,0,0,0,0,0,-0.6526616828850025,Low
+589,Islington,Violence Against the Person,Harassment,28,8,1659,1699,2022,1610,1802,1593,2250,2701,3018,2830,2974,1.3012200244696717,High
+590,Islington,Violence Against the Person,Murder,29,8,8,3,6,4,4,5,3,8,4,6,5,-0.7311410810840568,Low
+591,Islington,Violence Against the Person,Offensive Weapon,30,8,205,148,145,147,134,117,143,152,188,231,212,-0.5830625560521777,Low
+592,Islington,Violence Against the Person,Other violence,31,8,209,220,215,186,223,212,224,292,325,325,351,-0.502363090011566,Medium
+593,Islington,Violence Against the Person,Wounding/GBH,32,8,159,0,125,290,261,544,705,861,836,903,886,-0.3164324082811331,Medium
+594,Kensington and Chelsea,Burglary,Burglary in a Dwelling,0,0,988,971,920,1046,1044,979,909,972,860,1213,1374,0.2283722400370547,High
+595,Kensington and Chelsea,Burglary,Burglary in Other Buildings,1,0,806,731,700,693,740,784,678,618,586,923,1043,-0.0328187415221743,Medium
+596,Kensington and Chelsea,Criminal Damage,Criminal Damage To Dwelling,2,1,357,308,272,282,236,186,204,233,234,247,253,-0.47949639124352467,Medium
+597,Kensington and Chelsea,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,564,460,486,493,411,345,336,385,412,462,406,-0.3041110317604895,Medium
+598,Kensington and Chelsea,Criminal Damage,Criminal Damage To Other Building,4,1,204,146,167,154,156,102,159,141,122,115,109,-0.5861706510303581,Low
+599,Kensington and Chelsea,Criminal Damage,Other Criminal Damage,5,1,315,278,258,243,263,201,278,311,288,300,328,-0.4658429740179466,Medium
+600,Kensington and Chelsea,Drugs,Drug Trafficking,6,2,100,102,134,73,64,55,45,55,61,95,53,-0.6596548965859083,Low
+601,Kensington and Chelsea,Drugs,Other Drugs,7,2,12,12,11,2,6,16,7,9,8,13,12,-0.7269229521850977,Low
+602,Kensington and Chelsea,Drugs,Possession Of Drugs,8,2,2902,2098,2142,1595,1349,1061,731,1015,1691,1545,1407,0.8827372363361006,High
+603,Kensington and Chelsea,Fraud or Forgery,Counted per Victim,9,3,358,413,393,388,502,54,0,0,0,0,0,-0.5021410832274102,Medium
+604,Kensington and Chelsea,Fraud or Forgery,Other Fraud & Forgery,10,3,439,581,426,394,435,72,23,18,37,73,54,-0.46695300793872535,Medium
+605,Kensington and Chelsea,Other Notifiable Offences,Going Equipped,11,4,41,31,48,24,16,8,14,27,27,28,22,-0.7099394331971836,Low
+606,Kensington and Chelsea,Other Notifiable Offences,Other Notifiable,12,4,225,239,202,168,202,212,242,274,314,329,318,-0.5054711849897463,Medium
+607,Kensington and Chelsea,Robbery,Business Property,13,5,34,45,43,40,24,34,33,24,37,38,60,-0.7012811686151097,Low
+608,Kensington and Chelsea,Robbery,Personal Property,14,5,506,500,478,579,636,511,439,385,487,645,671,-0.23428989814350903,Medium
+609,Kensington and Chelsea,Sexual Offences,Other Sexual,15,6,123,118,119,110,140,142,220,187,211,204,242,-0.5840615865808786,Low
+610,Kensington and Chelsea,Sexual Offences,Rape,16,6,46,44,38,70,62,80,101,107,133,163,162,-0.6605429237225312,Low
+611,Kensington and Chelsea,Theft and Handling,Handling Stolen Goods,17,7,87,69,54,56,41,45,32,25,37,38,27,-0.6866287208608308,Low
+612,Kensington and Chelsea,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,53,47,40,68,97,80,167,268,331,0,0,-0.6083713294459322,Low
+613,Kensington and Chelsea,Theft and Handling,Other Theft,19,7,4849,4545,5223,5466,5903,4978,4437,4223,3660,3467,3715,4.06853458897098,High
+614,Kensington and Chelsea,Theft and Handling,Other Theft Person,20,7,1217,1309,1180,1169,1675,1788,1213,1352,1129,1366,1536,0.5994565797533753,High
+615,Kensington and Chelsea,Theft and Handling,Theft From Motor Vehicle,21,7,2064,1576,1523,1499,1643,1521,1380,1514,1722,2096,1990,0.8669747546610429,High
+616,Kensington and Chelsea,Theft and Handling,Theft From Shops,22,7,1801,1799,1877,1801,1646,1464,1749,1764,1672,1712,1713,0.9925195911011142,High
+617,Kensington and Chelsea,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,526,511,519,550,557,467,774,719,914,706,568,-0.12151045179239273,Medium
+618,Kensington and Chelsea,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,790,928,921,775,820,653,651,487,545,701,544,-0.006843947775952633,Medium
+619,Kensington and Chelsea,Violence Against the Person,Assault with Injury,25,8,1070,1012,1017,950,902,678,769,846,791,949,925,0.15577602161812745,High
+620,Kensington and Chelsea,Violence Against the Person,Common Assault,26,8,748,805,717,823,716,696,1046,1345,1301,1487,1570,0.17375857113474247,High
+621,Kensington and Chelsea,Violence Against the Person,Grievous Bodily Harm,27,8,65,134,79,0,0,0,0,0,0,0,0,-0.7052772907299131,Low
+622,Kensington and Chelsea,Violence Against the Person,Harassment,28,8,931,832,916,792,777,756,1230,1708,1832,1778,2064,0.34881092044154405,High
+623,Kensington and Chelsea,Violence Against the Person,Murder,29,8,0,0,0,0,0,0,3,4,1,1,2,-0.735248206590938,Low
+624,Kensington and Chelsea,Violence Against the Person,Offensive Weapon,30,8,136,68,76,72,62,50,51,136,187,171,165,-0.6431153911663056,Low
+625,Kensington and Chelsea,Violence Against the Person,Other violence,31,8,131,125,100,95,108,121,105,147,171,201,211,-0.61369949226567,Low
+626,Kensington and Chelsea,Violence Against the Person,Wounding/GBH,32,8,68,0,44,99,125,270,434,418,455,451,457,-0.523786744682595,Medium
+627,Kingston upon Thames,Burglary,Burglary in a Dwelling,0,0,550,698,623,780,839,711,597,565,562,896,772,-0.07844113566617902,Medium
+628,Kingston upon Thames,Burglary,Burglary in Other Buildings,1,0,524,554,569,556,534,483,397,367,324,477,453,-0.25793362065609543,Medium
+629,Kingston upon Thames,Criminal Damage,Criminal Damage To Dwelling,2,1,312,288,245,185,197,153,162,194,205,171,183,-0.5206786497044146,Medium
+630,Kingston upon Thames,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,839,660,578,483,497,437,424,420,460,427,392,-0.20354195853793894,Medium
+631,Kingston upon Thames,Criminal Damage,Criminal Damage To Other Building,4,1,230,233,176,174,143,139,138,143,145,111,82,-0.5673000743771202,Low
+632,Kingston upon Thames,Criminal Damage,Other Criminal Damage,5,1,322,301,331,316,263,222,261,273,252,296,302,-0.4540766144576924,Medium
+633,Kingston upon Thames,Drugs,Drug Trafficking,6,2,91,54,85,77,41,36,59,58,44,44,18,-0.6756393850451217,Low
+634,Kingston upon Thames,Drugs,Other Drugs,7,2,0,1,0,2,0,3,2,3,6,4,0,-0.7342491760622372,Low
+635,Kingston upon Thames,Drugs,Possession Of Drugs,8,2,573,491,447,601,382,566,705,857,713,547,404,-0.14393313699212254,Medium
+636,Kingston upon Thames,Fraud or Forgery,Counted per Victim,9,3,261,280,316,394,229,16,0,0,0,0,0,-0.5700751591790669,Low
+637,Kingston upon Thames,Fraud or Forgery,Other Fraud & Forgery,10,3,163,187,137,141,141,22,6,18,16,32,19,-0.6438924149108507,Low
+638,Kingston upon Thames,Other Notifiable Offences,Going Equipped,11,4,9,15,7,5,12,12,10,8,13,15,5,-0.7260349250484748,Low
+639,Kingston upon Thames,Other Notifiable Offences,Other Notifiable,12,4,148,143,145,123,109,94,134,199,181,186,251,-0.5944959054361983,Low
+640,Kingston upon Thames,Robbery,Business Property,13,5,13,27,17,7,17,17,8,12,10,17,27,-0.7219277995415936,Low
+641,Kingston upon Thames,Robbery,Personal Property,14,5,256,251,224,237,219,142,102,98,110,160,234,-0.5542016741119314,Low
+642,Kingston upon Thames,Sexual Offences,Other Sexual,15,6,95,107,122,117,100,104,134,165,169,201,242,-0.6125894583448913,Low
+643,Kingston upon Thames,Sexual Offences,Rape,16,6,24,33,46,59,73,45,60,75,94,128,137,-0.6796355071599249,Low
+644,Kingston upon Thames,Theft and Handling,Handling Stolen Goods,17,7,51,24,14,21,31,19,16,10,13,19,9,-0.7140465587040647,Low
+645,Kingston upon Thames,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,96,69,46,40,80,37,77,84,134,0,0,-0.662540984779933,Low
+646,Kingston upon Thames,Theft and Handling,Other Theft,19,7,1636,1516,1670,1712,1603,1479,1391,1298,1310,1248,1479,0.7751749494126442,High
+647,Kingston upon Thames,Theft and Handling,Other Theft Person,20,7,341,399,433,412,555,487,300,375,376,340,478,-0.32786575766515375,Medium
+648,Kingston upon Thames,Theft and Handling,Theft From Motor Vehicle,21,7,879,712,692,652,673,607,525,464,448,819,787,-0.10874506170343763,Medium
+649,Kingston upon Thames,Theft and Handling,Theft From Shops,22,7,1027,1217,1289,1118,947,1011,1127,916,1010,1079,1034,0.33637854052882254,High
+650,Kingston upon Thames,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,296,212,195,158,139,117,156,155,268,307,366,-0.5478744807634929,Low
+651,Kingston upon Thames,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,471,451,478,524,477,440,377,278,281,354,650,-0.3168764218494446,Medium
+652,Kingston upon Thames,Violence Against the Person,Assault with Injury,25,8,1004,947,962,973,916,631,569,726,761,805,903,0.09516816954361024,High
+653,Kingston upon Thames,Violence Against the Person,Common Assault,26,8,578,542,600,627,535,544,684,801,812,920,1022,-0.10086382086590884,Medium
+654,Kingston upon Thames,Violence Against the Person,Grievous Bodily Harm,27,8,112,216,136,0,0,0,0,0,0,0,0,-0.6846306598034292,Low
+655,Kingston upon Thames,Violence Against the Person,Harassment,28,8,366,370,333,269,610,540,756,1030,1167,1293,1520,-0.13216677743186828,Medium
+656,Kingston upon Thames,Violence Against the Person,Murder,29,8,0,1,0,1,2,1,3,0,1,2,3,-0.7351372031988601,Low
+657,Kingston upon Thames,Violence Against the Person,Offensive Weapon,30,8,66,29,38,57,31,30,40,45,49,73,76,-0.6933999277775809,Low
+658,Kingston upon Thames,Violence Against the Person,Other violence,31,8,115,102,81,94,58,76,66,106,106,176,172,-0.6468895064969532,Low
+659,Kingston upon Thames,Violence Against the Person,Wounding/GBH,32,8,106,0,72,174,131,244,296,345,319,342,329,-0.5488735112921936,Low
+660,Lambeth,Burglary,Burglary in a Dwelling,0,0,2485,3048,2410,2807,2561,2626,1994,1624,2033,2012,2377,1.6602049944495045,High
+661,Lambeth,Burglary,Burglary in Other Buildings,1,0,874,874,882,1002,1075,1288,1053,952,1068,1268,1558,0.27044252563456755,High
+662,Lambeth,Criminal Damage,Criminal Damage To Dwelling,2,1,1163,1158,1005,953,741,723,650,614,691,702,537,0.11836787848788514,High
+663,Lambeth,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1504,1394,1295,1130,980,947,958,1051,979,930,889,0.4003164943656759,High
+664,Lambeth,Criminal Damage,Criminal Damage To Other Building,4,1,393,391,353,307,270,291,318,346,328,326,247,-0.40345906767018347,Medium
+665,Lambeth,Criminal Damage,Other Criminal Damage,5,1,696,662,630,688,538,478,649,686,780,671,738,-0.09153953593136772,Medium
+666,Lambeth,Drugs,Drug Trafficking,6,2,205,210,176,269,184,190,252,279,255,209,163,-0.5119093817302628,Medium
+667,Lambeth,Drugs,Other Drugs,7,2,43,25,28,24,15,18,33,44,37,21,23,-0.7064983280427696,Low
+668,Lambeth,Drugs,Possession Of Drugs,8,2,4054,3241,2991,2821,2183,1745,2385,2391,2496,2095,1961,1.962023217509234,High
+669,Lambeth,Fraud or Forgery,Counted per Victim,9,3,571,497,681,754,676,63,0,0,0,0,0,-0.3762632366111052,Medium
+670,Lambeth,Fraud or Forgery,Other Fraud & Forgery,10,3,419,529,500,481,419,96,51,55,45,67,43,-0.44808243128548736,Medium
+671,Lambeth,Other Notifiable Offences,Going Equipped,11,4,50,44,19,25,32,25,38,39,44,24,24,-0.701059161830954,Low
+672,Lambeth,Other Notifiable Offences,Other Notifiable,12,4,586,530,473,386,397,411,577,644,625,681,646,-0.22230153179909903,Medium
+673,Lambeth,Robbery,Business Property,13,5,176,256,224,242,177,130,84,111,91,94,88,-0.5706301761394562,Low
+674,Lambeth,Robbery,Personal Property,14,5,2001,2111,2415,2871,2555,2335,1326,1092,1136,1419,1266,1.244386287725802,High
+675,Lambeth,Sexual Offences,Other Sexual,15,6,355,362,353,331,320,313,431,571,548,566,595,-0.33830007652047356,Medium
+676,Lambeth,Sexual Offences,Rape,16,6,133,175,206,187,166,184,293,304,314,355,432,-0.5183475784707793,Medium
+677,Lambeth,Theft and Handling,Handling Stolen Goods,17,7,114,78,96,124,85,100,102,72,98,82,54,-0.6396742860118916,Low
+678,Lambeth,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,70,49,46,58,179,153,344,525,484,0,0,-0.5243417616429843,Medium
+679,Lambeth,Theft and Handling,Other Theft,19,7,4949,4550,5079,5550,6163,5178,5064,5182,4945,5002,5087,4.443282040625871,High
+680,Lambeth,Theft and Handling,Other Theft Person,20,7,1676,1712,2119,2900,3694,3598,2109,1962,2121,2164,1968,1.6938390222490993,High
+681,Lambeth,Theft and Handling,Theft From Motor Vehicle,21,7,2373,2175,2612,2640,2514,2306,2140,2049,1934,1669,2410,1.566407128143704,High
+682,Lambeth,Theft and Handling,Theft From Shops,22,7,858,946,980,782,788,864,1176,1465,1558,1515,1194,0.3091827094697443,High
+683,Lambeth,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1093,1041,940,994,958,787,875,859,1127,1040,882,0.22670718915588664,High
+684,Lambeth,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,990,1320,1138,1336,1229,1264,1092,1022,1087,1186,1028,0.4269573084643648,High
+685,Lambeth,Violence Against the Person,Assault with Injury,25,8,2620,2713,2616,2463,2468,1915,2282,2321,2391,2360,2222,1.6825166762571564,High
+686,Lambeth,Violence Against the Person,Common Assault,26,8,1871,1938,2110,1985,1756,1740,2381,2880,2798,2939,2859,1.4238787727157185,High
+687,Lambeth,Violence Against the Person,Grievous Bodily Harm,27,8,258,562,391,0,0,0,0,0,0,0,0,-0.60171112592126,Low
+688,Lambeth,Violence Against the Person,Harassment,28,8,1801,1717,1738,1577,1829,1815,2647,3339,3246,3292,3474,1.4516296207351862,High
+689,Lambeth,Violence Against the Person,Murder,29,8,14,8,8,11,3,6,3,5,0,4,6,-0.7296980369870445,Low
+690,Lambeth,Violence Against the Person,Offensive Weapon,30,8,425,301,300,258,171,219,267,335,381,475,434,-0.4412002209766594,Medium
+691,Lambeth,Violence Against the Person,Other violence,31,8,609,467,412,387,350,342,358,475,544,502,587,-0.29833885537244026,Medium
+692,Lambeth,Violence Against the Person,Wounding/GBH,32,8,275,0,235,552,443,913,1160,1235,1258,1291,1161,-0.06223464042280995,Medium
+693,Lewisham,Burglary,Burglary in a Dwelling,0,0,1901,2109,2211,2300,2277,2537,1647,1454,1421,1730,2075,1.2460513386069703,High
+694,Lewisham,Burglary,Burglary in Other Buildings,1,0,915,1010,956,948,1029,766,684,692,658,962,992,0.11392774280477033,High
+695,Lewisham,Criminal Damage,Criminal Damage To Dwelling,2,1,1153,1258,1068,874,724,632,610,635,587,655,582,0.1009403459316595,High
+696,Lewisham,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1777,1498,1379,1165,971,889,834,986,950,887,809,0.42373821009410656,High
+697,Lewisham,Criminal Damage,Criminal Damage To Other Building,4,1,306,259,218,251,194,222,214,217,200,195,164,-0.5051381748135128,Medium
+698,Lewisham,Criminal Damage,Other Criminal Damage,5,1,717,779,693,652,548,468,531,630,631,619,685,-0.10907807187967125,Medium
+699,Lewisham,Drugs,Drug Trafficking,6,2,172,193,124,163,146,165,158,174,163,142,142,-0.5742932880780259,Low
+700,Lewisham,Drugs,Other Drugs,7,2,8,9,19,22,12,15,14,17,17,14,6,-0.7213727825812042,Low
+701,Lewisham,Drugs,Possession Of Drugs,8,2,2595,2470,2339,2042,1328,1560,1160,1420,1483,1134,1128,1.0839863861732795,High
+702,Lewisham,Fraud or Forgery,Counted per Victim,9,3,1150,933,1037,1137,571,45,0,0,0,0,0,-0.19521670413209866,Medium
+703,Lewisham,Fraud or Forgery,Other Fraud & Forgery,10,3,483,470,478,416,385,59,36,38,43,49,48,-0.4688400656040491,Medium
+704,Lewisham,Other Notifiable Offences,Going Equipped,11,4,22,17,16,19,18,22,10,12,26,11,17,-0.7181536842109459,Low
+705,Lewisham,Other Notifiable Offences,Other Notifiable,12,4,457,551,567,435,341,335,384,433,495,477,586,-0.29234467220023524,Medium
+706,Lewisham,Robbery,Business Property,13,5,157,138,139,123,117,115,58,73,87,105,96,-0.6243558179051455,Low
+707,Lewisham,Robbery,Personal Property,14,5,1224,1168,1353,1591,1232,1172,736,750,786,897,948,0.3752297277560772,High
+708,Lewisham,Sexual Offences,Other Sexual,15,6,290,243,238,288,291,273,344,389,424,424,427,-0.42754680375108134,Medium
+709,Lewisham,Sexual Offences,Rape,16,6,111,111,141,142,132,170,225,226,274,285,332,-0.5660790370642635,Low
+710,Lewisham,Theft and Handling,Handling Stolen Goods,17,7,78,61,54,55,67,72,60,67,72,56,40,-0.671088245969929,Low
+711,Lewisham,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,227,177,171,150,131,130,168,292,316,0,0,-0.5405482568863534,Low
+712,Lewisham,Theft and Handling,Other Theft,19,7,2844,2586,2746,3130,3678,2848,2812,2849,2753,2784,2712,2.1772587947482247,High
+713,Lewisham,Theft and Handling,Other Theft Person,20,7,828,731,801,778,740,784,599,524,607,556,511,-0.02660255156581356,Medium
+714,Lewisham,Theft and Handling,Theft From Motor Vehicle,21,7,2729,2189,2372,2099,2173,1613,1434,1505,1436,1461,1858,1.211973297239064,High
+715,Lewisham,Theft and Handling,Theft From Shops,22,7,1253,1338,1456,1155,936,882,1082,1172,1335,1147,1183,0.4414987528265658,High
+716,Lewisham,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1262,933,1000,946,872,730,654,901,865,965,1013,0.16998445580409488,High
+717,Lewisham,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,304,581,487,532,499,348,391,333,372,374,376,-0.3091061844039937,Medium
+718,Lewisham,Violence Against the Person,Assault with Injury,25,8,2821,2326,2231,2086,1917,1609,1757,1811,1960,1892,1840,1.3194245807704426,High
+719,Lewisham,Violence Against the Person,Common Assault,26,8,1998,1937,1767,1629,1515,1547,1993,2391,2421,2489,2353,1.1729001032276536,High
+720,Lewisham,Violence Against the Person,Grievous Bodily Harm,27,8,133,420,189,0,0,0,0,0,0,0,0,-0.6537717168057812,Low
+721,Lewisham,Violence Against the Person,Harassment,28,8,2891,2699,2075,1973,1752,1739,2060,2824,2932,2974,3379,1.588829813343434,High
+722,Lewisham,Violence Against the Person,Murder,29,8,5,7,8,5,6,4,3,3,5,4,5,-0.7310300776919789,Low
+723,Lewisham,Violence Against the Person,Offensive Weapon,30,8,273,230,225,205,138,172,153,222,270,294,282,-0.5265618294845417,Medium
+724,Lewisham,Violence Against the Person,Other violence,31,8,437,394,301,321,303,327,273,373,411,504,471,-0.38758558260304804,Medium
+725,Lewisham,Violence Against the Person,Wounding/GBH,32,8,205,0,129,284,281,629,754,872,928,1039,961,-0.2830203872656941,Medium
+726,Merton,Burglary,Burglary in a Dwelling,0,0,1085,1113,1207,1455,1333,1134,1033,922,937,1192,1276,0.39820742991619634,High
+727,Merton,Burglary,Burglary in Other Buildings,1,0,756,784,864,956,703,657,656,516,490,490,540,-0.027712585486592264,Medium
+728,Merton,Criminal Damage,Criminal Damage To Dwelling,2,1,532,521,450,428,343,281,284,340,308,255,244,-0.349067405552027,Medium
+729,Merton,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1068,977,790,766,559,568,563,609,657,589,459,-0.008286991872964949,Medium
+730,Merton,Criminal Damage,Criminal Damage To Other Building,4,1,212,199,198,162,139,134,138,128,99,85,89,-0.5797324542898417,Low
+731,Merton,Criminal Damage,Other Criminal Damage,5,1,397,412,376,333,287,234,282,359,356,354,368,-0.39912993537914654,Medium
+732,Merton,Drugs,Drug Trafficking,6,2,67,57,57,60,100,82,51,30,41,51,17,-0.6756393850451217,Low
+733,Merton,Drugs,Other Drugs,7,2,8,5,7,13,7,2,1,2,4,3,2,-0.7306970675157454,Low
+734,Merton,Drugs,Possession Of Drugs,8,2,872,794,891,925,747,557,517,455,427,549,458,-0.04958025372593273,Medium
+735,Merton,Fraud or Forgery,Counted per Victim,9,3,536,359,367,400,309,27,0,0,0,0,0,-0.514351456355976,Medium
+736,Merton,Fraud or Forgery,Other Fraud & Forgery,10,3,196,208,157,172,218,36,15,17,21,32,24,-0.6206927059665758,Low
+737,Merton,Other Notifiable Offences,Going Equipped,11,4,6,9,14,15,7,12,11,9,9,16,12,-0.725923921656397,Low
+738,Merton,Other Notifiable Offences,Other Notifiable,12,4,211,185,119,95,153,147,160,199,243,255,306,-0.568299104905821,Low
+739,Merton,Robbery,Business Property,13,5,92,78,74,66,42,23,21,27,29,30,47,-0.6859627005083636,Low
+740,Merton,Robbery,Personal Property,14,5,437,481,491,584,530,411,267,238,256,326,342,-0.32597869999983,Medium
+741,Merton,Sexual Offences,Other Sexual,15,6,163,134,147,133,117,148,136,177,199,221,242,-0.5858376408541245,Low
+742,Merton,Sexual Offences,Rape,16,6,54,35,79,70,43,70,84,94,112,135,110,-0.6649830594056461,Low
+743,Merton,Theft and Handling,Handling Stolen Goods,17,7,36,37,44,46,56,43,33,28,22,21,16,-0.6978400634606957,Low
+744,Merton,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,59,69,87,60,103,92,161,179,213,0,0,-0.6225797636318996,Low
+745,Merton,Theft and Handling,Other Theft,19,7,1612,1532,1690,1601,1974,1757,1610,1700,1569,1464,1479,0.9339098000839987,High
+746,Merton,Theft and Handling,Other Theft Person,20,7,261,282,325,278,326,373,247,267,223,229,238,-0.4495254753824997,Medium
+747,Merton,Theft and Handling,Theft From Motor Vehicle,21,7,1047,1161,1311,1402,1520,1272,1091,907,961,984,1073,0.44849196652747164,High
+748,Merton,Theft and Handling,Theft From Shops,22,7,873,872,919,829,780,775,726,844,916,1042,997,0.1001633221871144,High
+749,Merton,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,570,522,565,478,379,288,402,385,669,570,571,-0.2634837902599889,Medium
+750,Merton,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,358,442,390,563,332,395,371,299,371,485,378,-0.3452932902213794,Medium
+751,Merton,Violence Against the Person,Assault with Injury,25,8,1320,1265,1099,942,850,663,792,931,947,986,913,0.24169264708639912,High
+752,Merton,Violence Against the Person,Common Assault,26,8,899,832,837,731,684,663,874,1121,1087,1198,1213,0.12169798025022126,High
+753,Merton,Violence Against the Person,Grievous Bodily Harm,27,8,86,224,73,0,0,0,0,0,0,0,0,-0.6936219345617366,Low
+754,Merton,Violence Against the Person,Harassment,28,8,1015,961,699,593,774,716,893,1281,1386,1487,1678,0.1871899815761648,High
+755,Merton,Violence Against the Person,Murder,29,8,5,1,0,1,1,1,0,2,1,3,2,-0.7348041930226266,Low
+756,Merton,Violence Against the Person,Offensive Weapon,30,8,127,93,93,83,62,47,49,59,86,107,97,-0.6585448626651296,Low
+757,Merton,Violence Against the Person,Other violence,31,8,186,142,128,112,95,140,112,157,181,186,169,-0.5970489834539894,Low
+758,Merton,Violence Against the Person,Wounding/GBH,32,8,64,0,45,109,113,252,337,378,407,434,431,-0.546875450234792,Low
+759,Newham,Burglary,Burglary in a Dwelling,0,0,2107,2199,2337,2105,2012,2070,1739,1468,1209,1536,1751,1.1782282660473913,High
+760,Newham,Burglary,Burglary in Other Buildings,1,0,1228,1301,1299,1142,1075,849,750,812,893,1230,1358,0.3016344788084491,High
+761,Newham,Criminal Damage,Criminal Damage To Dwelling,2,1,1083,1118,1052,861,700,570,576,546,550,557,560,0.047103700773892365,High
+762,Newham,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1919,1524,1260,938,904,826,892,981,1026,964,873,0.40386860291216775,High
+763,Newham,Criminal Damage,Criminal Damage To Other Building,4,1,289,297,290,215,238,207,216,226,237,215,214,-0.4902637202750781,Medium
+764,Newham,Criminal Damage,Other Criminal Damage,5,1,754,738,696,606,537,487,551,650,689,678,752,-0.1025288717470769,Medium
+765,Newham,Drugs,Drug Trafficking,6,2,125,115,129,116,102,127,134,164,188,229,133,-0.6029321632341166,Low
+766,Newham,Drugs,Other Drugs,7,2,6,8,18,6,9,14,10,6,8,7,6,-0.726700945400942,Low
+767,Newham,Drugs,Possession Of Drugs,8,2,2583,2471,2827,2206,1790,1499,1605,1540,1518,1925,1925,1.2662539559651427,High
+768,Newham,Fraud or Forgery,Counted per Victim,9,3,1292,961,896,971,1018,109,0,0,0,0,0,-0.15370143549497514,Medium
+769,Newham,Fraud or Forgery,Other Fraud & Forgery,10,3,534,682,664,683,777,99,30,46,47,46,62,-0.3407421511461867,Medium
+770,Newham,Other Notifiable Offences,Going Equipped,11,4,14,13,21,25,19,20,30,23,23,39,35,-0.7152675960169214,Low
+771,Newham,Other Notifiable Offences,Other Notifiable,12,4,436,399,449,425,446,408,556,586,670,689,694,-0.2504963933868781,Medium
+772,Newham,Robbery,Business Property,13,5,227,193,180,128,120,98,83,85,96,119,119,-0.6018221293133378,Low
+773,Newham,Robbery,Personal Property,14,5,1564,1890,2202,2277,2216,2051,1556,1325,1403,1934,1701,1.0936436812840542,High
+774,Newham,Sexual Offences,Other Sexual,15,6,210,291,296,258,226,293,361,513,464,515,540,-0.41289435599680246,Medium
+775,Newham,Sexual Offences,Rape,16,6,118,124,191,173,161,219,240,298,279,358,400,-0.5359971178111607,Medium
+776,Newham,Theft and Handling,Handling Stolen Goods,17,7,124,102,73,77,56,65,90,83,78,67,74,-0.653105696453314,Low
+777,Newham,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,182,145,323,366,203,204,314,461,542,0,0,-0.43198693943419614,Medium
+778,Newham,Theft and Handling,Other Theft,19,7,3270,3052,3788,3636,4899,4148,4103,4105,3910,4273,4567,3.1391031871029713,High
+779,Newham,Theft and Handling,Other Theft Person,20,7,1091,1282,1525,1533,2365,2205,1586,1467,1408,1513,1958,0.8691948225026004,High
+780,Newham,Theft and Handling,Theft From Motor Vehicle,21,7,4835,4401,4404,3367,3013,3055,2309,2423,2668,2866,3122,2.6466921398455385,High
+781,Newham,Theft and Handling,Theft From Shops,22,7,1175,1109,1178,1194,1416,1314,1639,1608,1912,2329,2299,0.6564013198893228,High
+782,Newham,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1544,1204,1432,1574,1102,1046,1104,896,1058,1417,1456,0.4804609434458983,High
+783,Newham,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,360,436,521,526,648,428,404,483,526,550,569,-0.25526953924622653,Medium
+784,Newham,Violence Against the Person,Assault with Injury,25,8,2773,2655,2578,2210,2179,1619,1969,2146,2060,2104,2119,1.5049112489325638,High
+785,Newham,Violence Against the Person,Common Assault,26,8,1994,2229,2261,2087,2045,1876,2415,2755,2788,3110,3222,1.533883134264888,High
+786,Newham,Violence Against the Person,Grievous Bodily Harm,27,8,212,615,276,0,0,0,0,0,0,0,0,-0.61369949226567,Low
+787,Newham,Violence Against the Person,Harassment,28,8,1489,1347,1379,1319,1568,1425,1968,2687,2812,3133,3294,1.0392520191658976,High
+788,Newham,Violence Against the Person,Murder,29,8,5,8,14,3,3,7,5,5,6,11,4,-0.7299200437712002,Low
+789,Newham,Violence Against the Person,Offensive Weapon,30,8,351,225,224,204,149,163,159,209,254,383,326,-0.5210116598806482,Medium
+790,Newham,Violence Against the Person,Other violence,31,8,249,239,310,276,356,364,376,496,615,591,708,-0.3719341043200683,Medium
+791,Newham,Violence Against the Person,Wounding/GBH,32,8,236,0,194,403,387,734,1056,1182,1230,1164,1100,-0.13427584188134783,Medium
+792,Redbridge,Burglary,Burglary in a Dwelling,0,0,2329,2668,2645,3096,2715,2360,2077,1745,1517,2398,2344,1.611807515503553,High
+793,Redbridge,Burglary,Burglary in Other Buildings,1,0,973,780,719,694,683,630,558,500,473,1185,1100,-0.06900584733956004,Medium
+794,Redbridge,Criminal Damage,Criminal Damage To Dwelling,2,1,559,536,571,551,424,301,352,325,305,368,326,-0.30055892321399763,Medium
+795,Redbridge,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1409,1238,1125,1213,772,685,749,690,797,836,601,0.22715120272419811,High
+796,Redbridge,Criminal Damage,Criminal Damage To Other Building,4,1,239,223,217,175,156,138,140,165,115,166,116,-0.5620829149494603,Low
+797,Redbridge,Criminal Damage,Other Criminal Damage,5,1,494,523,420,423,393,382,383,457,446,459,567,-0.30089193339023124,Medium
+798,Redbridge,Drugs,Drug Trafficking,6,2,78,74,117,172,68,74,82,83,72,68,56,-0.6451134522237073,Low
+799,Redbridge,Drugs,Other Drugs,7,2,3,5,6,7,4,6,6,8,2,3,1,-0.7309190742999011,Low
+800,Redbridge,Drugs,Possession Of Drugs,8,2,2181,2232,1974,2237,1929,1752,1486,1202,946,683,613,1.0331468326016149,High
+801,Redbridge,Fraud or Forgery,Counted per Victim,9,3,1687,1179,1198,1169,616,81,0,0,0,0,0,-0.07788611870578967,Medium
+802,Redbridge,Fraud or Forgery,Other Fraud & Forgery,10,3,280,356,358,314,346,81,22,33,34,26,22,-0.5336660465775255,Medium
+803,Redbridge,Other Notifiable Offences,Going Equipped,11,4,7,11,9,21,22,14,15,10,6,9,7,-0.7233708436386059,Low
+804,Redbridge,Other Notifiable Offences,Other Notifiable,12,4,226,233,212,263,278,295,395,402,415,428,408,-0.43431801066783143,Medium
+805,Redbridge,Robbery,Business Property,13,5,139,133,115,102,108,61,63,61,40,68,68,-0.6448914454395516,Low
+806,Redbridge,Robbery,Personal Property,14,5,880,840,818,1081,968,844,679,599,559,821,1006,0.07063641989440089,High
+807,Redbridge,Sexual Offences,Other Sexual,15,6,208,175,172,169,160,196,329,333,359,315,316,-0.5029181069719554,Medium
+808,Redbridge,Sexual Offences,Rape,16,6,60,57,89,103,90,127,138,154,184,243,227,-0.6249108348655349,Low
+809,Redbridge,Theft and Handling,Handling Stolen Goods,17,7,70,58,47,45,48,66,49,39,24,32,25,-0.6866287208608308,Low
+810,Redbridge,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,182,148,193,182,240,244,262,255,357,0,0,-0.5071362358709144,Medium
+811,Redbridge,Theft and Handling,Other Theft,19,7,2140,2212,2359,2519,2963,2721,2605,2429,2472,2527,2497,1.7525598166582927,High
+812,Redbridge,Theft and Handling,Other Theft Person,20,7,574,617,601,634,712,616,460,521,521,748,822,-0.1527024049662743,Medium
+813,Redbridge,Theft and Handling,Theft From Motor Vehicle,21,7,2730,2732,3057,2928,2696,2389,1614,1716,1743,2327,2196,1.6620920521148284,High
+814,Redbridge,Theft and Handling,Theft From Shops,22,7,1293,1359,1032,1079,935,876,906,935,1160,1167,1060,0.3267212454180478,High
+815,Redbridge,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1249,1249,1550,1520,1146,1047,1031,787,1000,1491,1552,0.4381686510642297,High
+816,Redbridge,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,141,180,203,303,276,185,171,158,182,216,182,-0.5364411313794721,Low
+817,Redbridge,Violence Against the Person,Assault with Injury,25,8,1552,1531,1417,1367,1374,1180,1368,1315,1347,1397,1401,0.6459670010340031,High
+818,Redbridge,Violence Against the Person,Common Assault,26,8,903,955,979,988,1064,1093,1557,1728,1861,1995,2134,0.49910951331498055,High
+819,Redbridge,Violence Against the Person,Grievous Bodily Harm,27,8,122,285,124,0,0,0,0,0,0,0,0,-0.6771934325342118,Low
+820,Redbridge,Violence Against the Person,Harassment,28,8,1024,1143,1336,1104,1314,1250,1769,1898,2142,2314,2563,0.7046877954431965,High
+821,Redbridge,Violence Against the Person,Murder,29,8,4,1,2,3,4,2,3,6,2,3,5,-0.7331391421414585,Low
+822,Redbridge,Violence Against the Person,Offensive Weapon,30,8,147,116,118,132,67,94,102,107,112,135,154,-0.6256878586100799,Low
+823,Redbridge,Violence Against the Person,Other violence,31,8,268,208,168,134,174,273,258,257,332,302,430,-0.5061372053422136,Medium
+824,Redbridge,Violence Against the Person,Wounding/GBH,32,8,152,0,69,155,170,399,686,640,660,718,715,-0.4107852915473229,Medium
+825,Richmond upon Thames,Burglary,Burglary in a Dwelling,0,0,1029,892,1042,1034,1030,988,833,760,760,1394,1330,0.1927401511800583,High
+826,Richmond upon Thames,Burglary,Burglary in Other Buildings,1,0,897,841,917,1059,980,936,922,677,595,856,760,0.13235430588969682,High
+827,Richmond upon Thames,Criminal Damage,Criminal Damage To Dwelling,2,1,342,263,270,264,213,186,207,209,207,197,192,-0.4962579034472831,Medium
+828,Richmond upon Thames,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,813,777,727,679,605,558,502,483,524,525,488,-0.1069690074301917,Medium
+829,Richmond upon Thames,Criminal Damage,Criminal Damage To Other Building,4,1,216,221,198,150,134,143,124,109,138,113,97,-0.5770683728799727,Low
+830,Richmond upon Thames,Criminal Damage,Other Criminal Damage,5,1,301,364,296,318,254,267,254,277,283,316,317,-0.44597336683600786,Medium
+831,Richmond upon Thames,Drugs,Drug Trafficking,6,2,30,38,35,17,28,33,37,19,23,31,10,-0.7072753517873147,Low
+832,Richmond upon Thames,Drugs,Other Drugs,7,2,1,1,1,3,0,0,0,1,0,1,1,-0.7353592099830158,Low
+833,Richmond upon Thames,Drugs,Possession Of Drugs,8,2,755,625,530,573,547,646,433,392,312,364,261,-0.20187690765677088,Medium
+834,Richmond upon Thames,Fraud or Forgery,Counted per Victim,9,3,215,291,386,390,265,27,0,0,0,0,0,-0.5614168945969931,Low
+835,Richmond upon Thames,Fraud or Forgery,Other Fraud & Forgery,10,3,94,173,164,170,158,31,17,24,18,29,12,-0.6418943538534491,Low
+836,Richmond upon Thames,Other Notifiable Offences,Going Equipped,11,4,9,6,40,20,14,12,7,8,9,11,7,-0.7222608097178271,Low
+837,Richmond upon Thames,Other Notifiable Offences,Other Notifiable,12,4,132,109,103,113,145,137,193,213,207,195,202,-0.5860596476382802,Low
+838,Richmond upon Thames,Robbery,Business Property,13,5,24,28,13,14,19,8,11,15,10,16,15,-0.7203737520525034,Low
+839,Richmond upon Thames,Robbery,Personal Property,14,5,216,205,163,192,213,197,121,136,94,216,343,-0.5655240201038743,Low
+840,Richmond upon Thames,Sexual Offences,Other Sexual,15,6,121,97,121,118,121,89,143,168,187,240,204,-0.606817281956842,Low
+841,Richmond upon Thames,Sexual Offences,Rape,16,6,18,31,25,45,37,39,58,68,101,124,78,-0.6892928022706997,Low
+842,Richmond upon Thames,Theft and Handling,Handling Stolen Goods,17,7,33,21,25,24,19,23,21,13,12,11,5,-0.7149345858406877,Low
+843,Richmond upon Thames,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,118,92,107,120,133,93,192,205,318,0,0,-0.5831735594442556,Low
+844,Richmond upon Thames,Theft and Handling,Other Theft,19,7,1441,1417,1480,1631,1726,1497,1461,1289,1404,1343,1267,0.745315036943697,High
+845,Richmond upon Thames,Theft and Handling,Other Theft Person,20,7,161,196,188,192,227,225,181,200,201,228,238,-0.5395492263576526,Low
+846,Richmond upon Thames,Theft and Handling,Theft From Motor Vehicle,21,7,1260,1188,1018,1249,1279,1035,1011,857,1005,1382,1392,0.36301935462751145,High
+847,Richmond upon Thames,Theft and Handling,Theft From Shops,22,7,643,749,679,696,599,655,662,663,664,653,545,-0.06900584733956004,Medium
+848,Richmond upon Thames,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,393,300,260,315,398,282,372,375,517,585,506,-0.37959333837344134,Medium
+849,Richmond upon Thames,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,649,644,655,643,693,732,547,682,668,933,844,-0.07977317637111347,Medium
+850,Richmond upon Thames,Violence Against the Person,Assault with Injury,25,8,640,681,755,649,616,478,575,583,638,728,687,-0.11285218721031884,Medium
+851,Richmond upon Thames,Violence Against the Person,Common Assault,26,8,526,513,555,575,543,508,590,756,818,864,902,-0.1384939707803069,Medium
+852,Richmond upon Thames,Violence Against the Person,Grievous Bodily Harm,27,8,55,101,59,0,0,0,0,0,0,0,0,-0.7122705044308189,Low
+853,Richmond upon Thames,Violence Against the Person,Harassment,28,8,539,691,744,541,770,630,899,1114,1327,1413,1477,0.06919337579738857,High
+854,Richmond upon Thames,Violence Against the Person,Murder,29,8,0,0,0,0,1,1,2,0,0,0,3,-0.7356922201592495,Low
+855,Richmond upon Thames,Violence Against the Person,Offensive Weapon,30,8,65,42,30,37,22,29,33,21,34,59,62,-0.7013921720071875,Low
+856,Richmond upon Thames,Violence Against the Person,Other violence,31,8,98,98,93,63,58,66,72,134,104,127,129,-0.6488875675543548,Low
+857,Richmond upon Thames,Violence Against the Person,Wounding/GBH,32,8,48,0,38,90,76,205,237,282,270,283,315,-0.5978260071985345,Low
+858,Southwark,Burglary,Burglary in a Dwelling,0,0,2195,1905,2037,2157,1952,1924,1550,1528,1503,2067,2121,1.1232815869688455,High
+859,Southwark,Burglary,Burglary in Other Buildings,1,0,1371,1438,1226,1255,1323,1540,1296,1459,1433,1617,1472,0.6337566279054373,High
+860,Southwark,Criminal Damage,Criminal Damage To Dwelling,2,1,1096,900,916,880,648,637,632,642,624,608,566,0.038112426015584865,High
+861,Southwark,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1599,1283,1064,1153,889,861,855,939,944,895,787,0.3280532861229823,High
+862,Southwark,Criminal Damage,Criminal Damage To Other Building,4,1,349,363,360,361,272,337,324,343,346,297,264,-0.397020870929667,Medium
+863,Southwark,Criminal Damage,Other Criminal Damage,5,1,678,724,770,784,588,558,658,664,717,716,753,-0.05446440297735902,Medium
+864,Southwark,Drugs,Drug Trafficking,6,2,319,284,394,253,168,269,289,189,113,125,85,-0.48327050657417225,Medium
+865,Southwark,Drugs,Other Drugs,7,2,34,25,34,20,16,13,29,17,15,21,13,-0.7136025451357533,Low
+866,Southwark,Drugs,Possession Of Drugs,8,2,4696,4406,4477,3266,2293,2474,2510,2115,1719,2011,1797,2.367074595201383,High
+867,Southwark,Fraud or Forgery,Counted per Victim,9,3,1625,1001,839,655,603,68,0,0,0,0,0,-0.20431898228248402,Medium
+868,Southwark,Fraud or Forgery,Other Fraud & Forgery,10,3,716,579,486,379,434,72,40,36,42,65,53,-0.42710279018276986,Medium
+869,Southwark,Other Notifiable Offences,Going Equipped,11,4,44,41,29,25,21,20,18,19,23,17,17,-0.7094954196288721,Low
+870,Southwark,Other Notifiable Offences,Other Notifiable,12,4,612,712,695,494,517,460,494,461,501,531,613,-0.1871134565104141,Medium
+871,Southwark,Robbery,Business Property,13,5,180,205,147,152,169,159,106,96,58,126,124,-0.5949399190045098,Low
+872,Southwark,Robbery,Personal Property,14,5,1746,1761,2130,2296,2424,2176,1202,1133,1271,1677,1680,1.0553475110171888,High
+873,Southwark,Sexual Offences,Other Sexual,15,6,301,313,302,319,304,290,355,451,442,547,559,-0.39457879630395387,Medium
+874,Southwark,Sexual Offences,Rape,16,6,111,146,165,207,132,182,233,235,296,321,346,-0.5466534434506363,Low
+875,Southwark,Theft and Handling,Handling Stolen Goods,17,7,129,113,82,101,74,98,72,67,58,50,52,-0.6479995404177319,Low
+876,Southwark,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,155,165,155,138,154,165,335,423,526,0,0,-0.4901527168830002,Medium
+877,Southwark,Theft and Handling,Other Theft,19,7,5209,4386,4878,5349,5525,5366,4731,4858,4822,4667,5522,4.272780830394262,High
+878,Southwark,Theft and Handling,Other Theft Person,20,7,1439,1386,1739,1939,2464,2798,1285,1507,1812,2290,2074,1.0808782911950992,High
+879,Southwark,Theft and Handling,Theft From Motor Vehicle,21,7,3398,2113,2156,2291,1820,1988,1713,1627,1885,1491,2255,1.3719291852232751,High
+880,Southwark,Theft and Handling,Theft From Shops,22,7,1224,1201,1259,1168,1166,1220,1224,1428,1506,1433,1441,0.5288584223918498,High
+881,Southwark,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1168,1035,1072,1100,881,989,978,883,1091,1036,1019,0.2847619632126128,High
+882,Southwark,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1127,1492,1304,1467,1378,1282,1100,1129,1250,1608,1305,0.5436218735382066,High
+883,Southwark,Violence Against the Person,Assault with Injury,25,8,2781,2828,2841,2428,2218,1709,1975,2019,2112,2176,2155,1.5850556980127863,High
+884,Southwark,Violence Against the Person,Common Assault,26,8,1942,2121,2189,1907,1652,1673,2134,2579,2604,2581,2915,1.3508385407284798,High
+885,Southwark,Violence Against the Person,Grievous Bodily Harm,27,8,327,697,327,0,0,0,0,0,0,0,0,-0.5861706510303581,Low
+886,Southwark,Violence Against the Person,Harassment,28,8,2773,2324,1987,1381,1701,1707,2204,2717,2998,3149,3551,1.4608429022776492,High
+887,Southwark,Violence Against the Person,Murder,29,8,13,8,6,7,6,2,2,4,6,11,10,-0.730142050555356,Low
+888,Southwark,Violence Against the Person,Offensive Weapon,30,8,420,284,304,196,206,170,163,208,272,426,417,-0.48937569313845514,Medium
+889,Southwark,Violence Against the Person,Other violence,31,8,485,527,425,312,358,323,315,409,460,432,549,-0.33496997475813745,Medium
+890,Southwark,Violence Against the Person,Wounding/GBH,32,8,288,0,157,410,403,736,1048,1025,1053,1133,1148,-0.16779886628886467,Medium
+891,Sutton,Burglary,Burglary in a Dwelling,0,0,859,789,755,750,881,785,800,626,736,858,960,0.03877844636805209,High
+892,Sutton,Burglary,Burglary in Other Buildings,1,0,803,729,843,878,660,643,606,648,494,540,526,-0.03637085006866615,Medium
+893,Sutton,Criminal Damage,Criminal Damage To Dwelling,2,1,571,460,417,339,287,237,223,250,231,222,209,-0.40146100661278183,Medium
+894,Sutton,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1154,1086,902,738,624,577,611,620,648,568,541,0.036447375134416815,High
+895,Sutton,Criminal Damage,Criminal Damage To Other Building,4,1,353,267,230,176,183,153,127,139,120,103,85,-0.5421023043754436,Low
+896,Sutton,Criminal Damage,Other Criminal Damage,5,1,383,366,360,322,261,272,301,319,318,339,347,-0.41400438991758115,Medium
+897,Sutton,Drugs,Drug Trafficking,6,2,48,42,47,40,70,63,37,50,50,29,19,-0.6865177174687529,Low
+898,Sutton,Drugs,Other Drugs,7,2,4,0,6,0,1,9,4,5,2,5,6,-0.732695128573147,Low
+899,Sutton,Drugs,Possession Of Drugs,8,2,466,499,531,532,489,416,417,452,419,380,322,-0.26759091576687016,Medium
+900,Sutton,Fraud or Forgery,Counted per Victim,9,3,356,355,311,347,184,16,0,0,0,0,0,-0.5619719115573824,Low
+901,Sutton,Fraud or Forgery,Other Fraud & Forgery,10,3,102,87,74,65,105,17,7,9,9,22,6,-0.6834096224905726,Low
+902,Sutton,Other Notifiable Offences,Going Equipped,11,4,8,7,9,14,12,4,8,7,7,11,7,-0.7276999759296429,Low
+903,Sutton,Other Notifiable Offences,Other Notifiable,12,4,160,142,115,88,156,137,136,183,254,249,280,-0.5839505831888007,Low
+904,Sutton,Robbery,Business Property,13,5,70,55,51,43,44,34,17,20,19,33,33,-0.6969520363240728,Low
+905,Sutton,Robbery,Personal Property,14,5,266,285,259,263,266,216,183,146,147,233,289,-0.5106883444174063,Medium
+906,Sutton,Sexual Offences,Other Sexual,15,6,157,134,104,153,153,155,186,155,205,227,186,-0.5805094780343867,Low
+907,Sutton,Sexual Offences,Rape,16,6,38,52,63,62,40,68,100,88,108,165,134,-0.6674251340313592,Low
+908,Sutton,Theft and Handling,Handling Stolen Goods,17,7,46,33,33,39,22,27,24,23,26,22,17,-0.7058323076903024,Low
+909,Sutton,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,117,145,161,102,129,101,119,204,213,0,0,-0.5928308545550304,Low
+910,Sutton,Theft and Handling,Other Theft,19,7,1611,1273,1471,1560,1472,1311,1387,1188,1126,1166,1240,0.6401948246459538,High
+911,Sutton,Theft and Handling,Other Theft Person,20,7,300,311,230,156,201,190,136,161,143,173,173,-0.5332220330092139,Medium
+912,Sutton,Theft and Handling,Theft From Motor Vehicle,21,7,1586,1635,1737,1265,1381,1302,1012,729,705,938,1003,0.5239742731404234,High
+913,Sutton,Theft and Handling,Theft From Shops,22,7,909,1029,1050,1031,852,842,744,782,792,841,779,0.15533200804981598,High
+914,Sutton,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,591,419,401,344,202,260,265,251,386,504,398,-0.3899166538366833,Medium
+915,Sutton,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,244,239,208,201,129,135,166,101,118,139,125,-0.5650800065355628,Low
+916,Sutton,Violence Against the Person,Assault with Injury,25,8,1136,1122,954,902,939,741,870,867,930,1040,954,0.20306346664330024,High
+917,Sutton,Violence Against the Person,Common Assault,26,8,713,780,714,755,783,615,879,1017,993,1116,1156,0.06852735544492135,High
+918,Sutton,Violence Against the Person,Grievous Bodily Harm,27,8,74,168,75,0,0,0,0,0,0,0,0,-0.700948158438876,Low
+919,Sutton,Violence Against the Person,Harassment,28,8,365,417,394,436,712,682,934,1267,1326,1544,1650,-0.010951073282833837,Medium
+920,Sutton,Violence Against the Person,Murder,29,8,3,3,3,1,2,1,0,0,1,0,0,-0.7345821862384708,Low
+921,Sutton,Violence Against the Person,Offensive Weapon,30,8,109,93,66,69,43,40,44,55,58,74,102,-0.6720872764986298,Low
+922,Sutton,Violence Against the Person,Other violence,31,8,138,115,107,110,91,81,123,139,140,151,155,-0.6202486923982643,Low
+923,Sutton,Violence Against the Person,Wounding/GBH,32,8,81,0,42,86,101,232,321,376,306,366,390,-0.5646359929672513,Low
+924,Tower Hamlets,Burglary,Burglary in a Dwelling,0,0,1273,1040,1119,1528,1377,1450,1212,1259,1348,1947,2332,0.5521691347282026,High
+925,Tower Hamlets,Burglary,Burglary in Other Buildings,1,0,1205,1067,1261,1221,1327,1316,1152,1313,1489,1360,1393,0.5238632697483456,High
+926,Tower Hamlets,Criminal Damage,Criminal Damage To Dwelling,2,1,793,815,735,646,548,496,525,524,489,497,516,-0.11773633646174514,Medium
+927,Tower Hamlets,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1343,1132,1048,921,840,748,830,924,820,905,731,0.21915895849459144,High
+928,Tower Hamlets,Criminal Damage,Criminal Damage To Other Building,4,1,393,360,370,335,322,272,284,327,298,287,211,-0.4074551897849868,Medium
+929,Tower Hamlets,Criminal Damage,Other Criminal Damage,5,1,708,748,676,593,572,581,628,685,782,742,701,-0.07311297284644125,Medium
+930,Tower Hamlets,Drugs,Drug Trafficking,6,2,224,233,381,296,198,139,136,120,160,132,125,-0.5266728328766196,Medium
+931,Tower Hamlets,Drugs,Other Drugs,7,2,10,15,10,15,12,11,10,9,13,2,13,-0.7244808775593846,Low
+932,Tower Hamlets,Drugs,Possession Of Drugs,8,2,2899,3000,2837,3185,3245,3017,2115,1722,1483,1389,1959,1.8727764902786264,High
+933,Tower Hamlets,Fraud or Forgery,Counted per Victim,9,3,710,873,773,952,690,73,0,0,0,0,0,-0.28424142457855067,Medium
+934,Tower Hamlets,Fraud or Forgery,Other Fraud & Forgery,10,3,331,371,350,483,405,57,21,23,33,37,46,-0.5059151985580578,Medium
+935,Tower Hamlets,Other Notifiable Offences,Going Equipped,11,4,30,30,32,32,26,25,14,31,34,28,34,-0.7079413721397819,Low
+936,Tower Hamlets,Other Notifiable Offences,Other Notifiable,12,4,444,410,366,419,783,484,518,593,672,682,741,-0.2156413282744268,Medium
+937,Tower Hamlets,Robbery,Business Property,13,5,80,50,43,109,65,81,69,53,97,70,77,-0.6643170390531788,Low
+938,Tower Hamlets,Robbery,Personal Property,14,5,1046,869,991,1353,1375,1222,1083,1083,1164,1448,1472,0.3945443179776266,High
+939,Tower Hamlets,Sexual Offences,Other Sexual,15,6,262,222,265,292,271,262,343,352,470,446,471,-0.432097942826274,Medium
+940,Tower Hamlets,Sexual Offences,Rape,16,6,63,77,110,144,125,135,195,211,267,304,321,-0.588834732440227,Low
+941,Tower Hamlets,Theft and Handling,Handling Stolen Goods,17,7,109,81,61,84,64,67,74,73,116,67,38,-0.6552147609027935,Low
+942,Tower Hamlets,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,102,111,86,90,109,126,242,393,297,0,0,-0.5634149556543947,Low
+943,Tower Hamlets,Theft and Handling,Other Theft,19,7,4006,3768,4074,4362,4508,4175,3651,3637,3732,3936,4238,3.2503285859649975,High
+944,Tower Hamlets,Theft and Handling,Other Theft Person,20,7,915,1073,1284,1585,1786,1650,1271,1415,1770,1685,1763,0.6790460118732085,High
+945,Tower Hamlets,Theft and Handling,Theft From Motor Vehicle,21,7,2712,1838,1832,2211,1723,1777,1534,1607,1498,1856,2099,1.121172522519366,High
+946,Tower Hamlets,Theft and Handling,Theft From Shops,22,7,670,705,698,736,695,822,893,1065,1353,1304,1068,0.11159667157113505,High
+947,Tower Hamlets,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,904,798,846,883,840,812,963,1070,1140,1185,1073,0.18030777126733682,High
+948,Tower Hamlets,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1110,1286,1421,1214,1560,1292,1276,1131,1336,1665,1446,0.55438920256976,High
+949,Tower Hamlets,Violence Against the Person,Assault with Injury,25,8,1965,1886,1998,1590,1831,1640,1770,1883,1899,1840,1852,1.091201606658341,High
+950,Tower Hamlets,Violence Against the Person,Common Assault,26,8,1649,1747,1903,1776,1778,1728,2316,2537,2691,2771,2992,1.2758002476838395,High
+951,Tower Hamlets,Violence Against the Person,Grievous Bodily Harm,27,8,221,498,241,0,0,0,0,0,0,0,0,-0.6295729773328054,Low
+952,Tower Hamlets,Violence Against the Person,Harassment,28,8,1751,1680,1772,1539,1839,1949,2297,2995,3636,3723,4081,1.4237677693236406,High
+953,Tower Hamlets,Violence Against the Person,Murder,29,8,7,8,6,9,3,4,3,5,5,6,3,-0.7305860641236674,Low
+954,Tower Hamlets,Violence Against the Person,Offensive Weapon,30,8,192,168,149,179,131,122,135,166,222,295,324,-0.5736272677255587,Low
+955,Tower Hamlets,Violence Against the Person,Other violence,31,8,174,188,184,181,229,366,263,389,356,417,427,-0.47749833018612303,Medium
+956,Tower Hamlets,Violence Against the Person,Wounding/GBH,32,8,237,0,134,448,336,630,900,998,968,1003,1064,-0.21985945717338587,Medium
+957,Waltham Forest,Burglary,Burglary in a Dwelling,0,0,1994,2351,2430,2418,2069,1893,1755,1396,1294,1807,1733,1.2175234668429575,High
+958,Waltham Forest,Burglary,Burglary in Other Buildings,1,0,1207,1097,1025,946,893,816,712,840,577,1042,979,0.16443428620020134,High
+959,Waltham Forest,Criminal Damage,Criminal Damage To Dwelling,2,1,756,732,651,651,493,451,431,452,470,450,369,-0.1714619782274344,Medium
+960,Waltham Forest,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1654,1404,1058,948,826,784,706,806,792,786,594,0.2604522203475592,High
+961,Waltham Forest,Criminal Damage,Criminal Damage To Other Building,4,1,267,282,252,219,209,155,125,198,150,160,142,-0.5300029346389556,Medium
+962,Waltham Forest,Criminal Damage,Other Criminal Damage,5,1,550,601,655,575,454,421,483,540,580,574,566,-0.19677075162118884,Medium
+963,Waltham Forest,Drugs,Drug Trafficking,6,2,141,322,133,144,124,136,150,116,77,75,89,-0.5870586781669811,Low
+964,Waltham Forest,Drugs,Other Drugs,7,2,2,6,4,2,4,8,8,16,6,8,3,-0.7299200437712002,Low
+965,Waltham Forest,Drugs,Possession Of Drugs,8,2,2098,1913,1727,1193,1170,1578,1238,1341,954,809,1065,0.7304405824052624,High
+966,Waltham Forest,Fraud or Forgery,Counted per Victim,9,3,762,902,956,630,723,73,0,0,0,0,0,-0.28701650938049744,Medium
+967,Waltham Forest,Fraud or Forgery,Other Fraud & Forgery,10,3,341,566,614,557,436,49,29,34,52,41,33,-0.4388691497430241,Medium
+968,Waltham Forest,Other Notifiable Offences,Going Equipped,11,4,12,25,21,14,18,14,13,8,9,9,14,-0.7212617791891264,Low
+969,Waltham Forest,Other Notifiable Offences,Other Notifiable,12,4,283,332,287,262,290,315,375,410,453,385,479,-0.4023490337494048,Medium
+970,Waltham Forest,Robbery,Business Property,13,5,142,163,134,137,93,85,66,47,57,72,70,-0.6335690994476088,Low
+971,Waltham Forest,Robbery,Personal Property,14,5,1332,1430,1589,1636,1276,902,648,604,548,763,906,0.3700125683284173,High
+972,Waltham Forest,Sexual Offences,Other Sexual,15,6,176,204,188,192,189,249,276,315,354,367,309,-0.4982559645046848,Medium
+973,Waltham Forest,Sexual Offences,Rape,16,6,46,95,105,124,84,114,140,162,154,242,202,-0.6224687602398217,Low
+974,Waltham Forest,Theft and Handling,Handling Stolen Goods,17,7,97,67,53,40,40,49,47,37,33,21,33,-0.684741663195507,Low
+975,Waltham Forest,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,69,105,198,223,241,227,186,291,306,0,0,-0.5312239719518123,Medium
+976,Waltham Forest,Theft and Handling,Other Theft,19,7,2167,2234,3172,3039,3757,3205,3047,2828,2709,2679,2826,2.1674904962453723,High
+977,Waltham Forest,Theft and Handling,Other Theft Person,20,7,756,761,921,821,943,907,617,557,654,698,895,0.033894297116625796,High
+978,Waltham Forest,Theft and Handling,Theft From Motor Vehicle,21,7,3000,3298,2868,2825,2765,2638,1653,1685,1538,1889,2248,1.7359093078466121,High
+979,Waltham Forest,Theft and Handling,Theft From Shops,22,7,938,1227,1213,924,804,1031,914,1028,1162,1012,904,0.28964611246403915,High
+980,Waltham Forest,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1154,1004,1181,1705,1110,941,808,696,697,1103,1078,0.295751299028322,High
+981,Waltham Forest,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,335,518,442,480,429,365,286,262,374,451,413,-0.3486233919837155,Medium
+982,Waltham Forest,Violence Against the Person,Assault with Injury,25,8,1920,1861,1924,1807,1717,1470,1607,1704,1712,1457,1486,1.009059096520717,High
+983,Waltham Forest,Violence Against the Person,Common Assault,26,8,1456,1383,1357,1317,1257,1313,1529,1772,2038,2050,2105,0.7537512947416152,High
+984,Waltham Forest,Violence Against the Person,Grievous Bodily Harm,27,8,137,328,113,0,0,0,0,0,0,0,0,-0.671976273106552,Low
+985,Waltham Forest,Violence Against the Person,Harassment,28,8,1385,1889,1640,1313,1414,1463,1837,2247,2454,2445,2737,1.0001788251544872,High
+986,Waltham Forest,Violence Against the Person,Murder,29,8,8,5,5,5,5,3,3,3,2,2,7,-0.731807101436524,Low
+987,Waltham Forest,Violence Against the Person,Offensive Weapon,30,8,194,142,130,116,120,122,150,172,172,229,212,-0.5898337629689279,Low
+988,Waltham Forest,Violence Against the Person,Other violence,31,8,296,245,253,198,235,302,319,340,370,387,420,-0.45218955679236855,Medium
+989,Waltham Forest,Violence Against the Person,Wounding/GBH,32,8,152,0,111,295,246,561,733,736,712,795,733,-0.3425182054194326,Medium
+990,Wandsworth,Burglary,Burglary in a Dwelling,0,0,1882,1993,1832,1925,1957,1693,1485,1254,1348,1797,2138,0.9698748991172287,High
+991,Wandsworth,Burglary,Burglary in Other Buildings,1,0,1089,1108,1207,1168,1471,1406,1194,1141,1014,1138,1212,0.4624783939292833,High
+992,Wandsworth,Criminal Damage,Criminal Damage To Dwelling,2,1,859,711,728,546,455,428,396,410,396,446,379,-0.1890005141757379,Medium
+993,Wandsworth,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1290,1318,1139,1011,893,775,733,800,770,845,656,0.2328123757201695,High
+994,Wandsworth,Criminal Damage,Criminal Damage To Other Building,4,1,299,284,254,232,236,238,189,189,197,177,175,-0.5010310493066316,Medium
+995,Wandsworth,Criminal Damage,Other Criminal Damage,5,1,518,547,530,421,456,371,433,550,483,552,573,-0.25782261726401756,Medium
+996,Wandsworth,Drugs,Drug Trafficking,6,2,105,89,121,72,118,95,173,72,182,250,66,-0.6221357500635881,Low
+997,Wandsworth,Drugs,Other Drugs,7,2,8,7,7,5,4,18,3,11,11,6,3,-0.7279219827137986,Low
+998,Wandsworth,Drugs,Possession Of Drugs,8,2,1301,1428,1254,1002,979,993,740,653,713,623,628,0.2698875086741782,High
+999,Wandsworth,Fraud or Forgery,Counted per Victim,9,3,683,561,684,481,586,54,0,0,0,0,0,-0.3976868912821342,Medium
+1000,Wandsworth,Fraud or Forgery,Other Fraud & Forgery,10,3,248,315,275,296,455,68,25,25,35,41,42,-0.5427683247279108,Low
+1001,Wandsworth,Other Notifiable Offences,Going Equipped,11,4,37,16,15,27,14,24,21,29,21,19,16,-0.7134915417436755,Low
+1002,Wandsworth,Other Notifiable Offences,Other Notifiable,12,4,265,336,320,250,315,319,370,489,418,420,531,-0.3940237793435645,Medium
+1003,Wandsworth,Robbery,Business Property,13,5,121,174,168,138,119,96,53,62,61,52,80,-0.6260208687863136,Low
+1004,Wandsworth,Robbery,Personal Property,14,5,1002,1089,1108,1171,1119,888,561,395,555,711,783,0.13945852298268052,High
+1005,Wandsworth,Sexual Offences,Other Sexual,15,6,256,232,269,230,214,258,276,407,418,474,452,-0.4519675500082128,Medium
+1006,Wandsworth,Sexual Offences,Rape,16,6,96,89,100,98,114,120,152,166,235,252,258,-0.6062622649964526,Low
+1007,Wandsworth,Theft and Handling,Handling Stolen Goods,17,7,128,60,58,81,71,79,66,45,32,42,30,-0.6673141306392814,Low
+1008,Wandsworth,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,155,132,122,128,218,184,361,399,516,0,0,-0.4902637202750781,Medium
+1009,Wandsworth,Theft and Handling,Other Theft,19,7,3484,3302,3193,2995,3927,3564,3279,3509,3420,3174,3153,2.668670811476957,High
+1010,Wandsworth,Theft and Handling,Other Theft Person,20,7,661,652,619,646,1458,1365,684,682,702,679,753,0.09294810170205284,High
+1011,Wandsworth,Theft and Handling,Theft From Motor Vehicle,21,7,2888,2513,2619,2838,3018,2649,2178,1701,2382,2245,2338,1.7931870581587932,High
+1012,Wandsworth,Theft and Handling,Theft From Shops,22,7,1039,1136,1304,1204,1197,1060,1323,1441,1554,1435,1332,0.5135399542851037,High
+1013,Wandsworth,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,1162,987,961,869,1135,837,969,994,1308,1133,1092,0.2875370480145596,High
+1014,Wandsworth,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1029,1283,1293,1363,1443,1420,881,805,995,1251,982,0.4307314237950124,High
+1015,Wandsworth,Violence Against the Person,Assault with Injury,25,8,2036,2132,1796,1406,1263,1038,1319,1594,1409,1560,1672,0.8171342316180792,High
+1016,Wandsworth,Violence Against the Person,Common Assault,26,8,1482,1590,1672,1359,1297,1209,1644,2110,2094,2249,2347,0.868639805542211,High
+1017,Wandsworth,Violence Against the Person,Grievous Bodily Harm,27,8,112,279,120,0,0,0,0,0,0,0,0,-0.6794135003757692,Low
+1018,Wandsworth,Violence Against the Person,Harassment,28,8,993,1026,1167,924,1183,1122,1561,2218,2330,2529,2809,0.6540702486556875,High
+1019,Wandsworth,Violence Against the Person,Murder,29,8,4,6,1,4,6,6,3,2,3,6,6,-0.7322511150048355,Low
+1020,Wandsworth,Violence Against the Person,Offensive Weapon,30,8,156,98,92,89,59,100,81,123,122,176,189,-0.6340131130159202,Low
+1021,Wandsworth,Violence Against the Person,Other violence,31,8,204,167,179,180,209,225,237,263,269,371,375,-0.5215666768410375,Medium
+1022,Wandsworth,Violence Against the Person,Wounding/GBH,32,8,113,0,62,152,155,369,609,694,697,675,753,-0.41966556291355256,Medium
+1023,Westminster,Burglary,Burglary in a Dwelling,0,0,1476,1397,1234,1247,1739,1553,1431,1408,1280,1526,1797,0.6808220661464544,High
+1024,Westminster,Burglary,Burglary in Other Buildings,1,0,2158,2266,2038,2079,2356,2366,2008,1753,1948,2464,2968,1.3698201207737957,High
+1025,Westminster,Criminal Damage,Criminal Damage To Dwelling,2,1,492,599,538,413,359,321,324,320,365,331,340,-0.3219825778850266,Medium
+1026,Westminster,Criminal Damage,Criminal Damage To Motor Vehicle,3,1,1250,1058,1019,938,916,866,687,727,787,736,756,0.17941974413071385,High
+1027,Westminster,Criminal Damage,Criminal Damage To Other Building,4,1,577,613,590,547,453,457,425,431,394,403,392,-0.23806401347415662,Medium
+1028,Westminster,Criminal Damage,Other Criminal Damage,5,1,896,875,764,672,552,462,593,613,652,777,826,-0.061346613286186985,Medium
+1029,Westminster,Drugs,Drug Trafficking,6,2,352,204,298,176,263,262,249,166,120,141,72,-0.5041391442848119,Medium
+1030,Westminster,Drugs,Other Drugs,7,2,77,64,73,29,32,28,10,12,13,15,13,-0.6986170872052408,Low
+1031,Westminster,Drugs,Possession Of Drugs,8,2,5098,4859,5543,6580,4681,4156,2750,2009,2017,2195,1809,3.447914623863607,High
+1032,Westminster,Fraud or Forgery,Counted per Victim,9,3,1161,1076,1221,1274,1549,107,0,0,0,0,0,-0.027046565134125043,Medium
+1033,Westminster,Fraud or Forgery,Other Fraud & Forgery,10,3,1095,1034,1105,894,905,150,82,74,88,111,77,-0.13372082492095846,Medium
+1034,Westminster,Other Notifiable Offences,Going Equipped,11,4,54,88,84,61,47,41,37,30,23,36,36,-0.6845196564113513,Low
+1035,Westminster,Other Notifiable Offences,Other Notifiable,12,4,793,757,808,768,716,825,857,763,756,805,763,0.04566065667688005,High
+1036,Westminster,Robbery,Business Property,13,5,68,88,86,77,85,80,112,90,77,112,135,-0.6514406455721459,Low
+1037,Westminster,Robbery,Personal Property,14,5,1679,1688,1691,2142,2311,2179,1886,1457,1780,2280,3041,1.1301637972776735,High
+1038,Westminster,Sexual Offences,Other Sexual,15,6,454,414,407,444,364,405,509,583,619,655,729,-0.27003299039258327,Medium
+1039,Westminster,Sexual Offences,Rape,16,6,90,106,133,132,171,162,239,246,306,399,530,-0.5601958572841365,Low
+1040,Westminster,Theft and Handling,Handling Stolen Goods,17,7,171,193,152,158,133,116,87,90,90,89,77,-0.6040421971548953,Low
+1041,Westminster,Theft and Handling,Motor Vehicle Interference & Tampering,18,7,39,30,38,39,127,150,332,347,431,0,0,-0.5659680336721857,Low
+1042,Westminster,Theft and Handling,Other Theft,19,7,21097,20369,20023,21080,19825,16757,13890,13661,12262,12586,15104,16.909406984539025,High
+1043,Westminster,Theft and Handling,Other Theft Person,20,7,5383,6392,6582,8467,9514,8584,5958,6170,6061,8766,10543,6.269398843698916,High
+1044,Westminster,Theft and Handling,Theft From Motor Vehicle,21,7,3526,2571,2543,2627,2536,2730,2207,1966,2507,2886,3031,1.840585506576044,High
+1045,Westminster,Theft and Handling,Theft From Shops,22,7,4704,5711,5260,4643,4385,3961,3795,3950,4187,4655,4461,3.7701574710656645,High
+1046,Westminster,Theft and Handling,Theft/Taking Of Motor Vehicle,23,7,719,553,665,544,589,654,819,862,1074,976,745,-0.01694525645503884,Medium
+1047,Westminster,Theft and Handling,Theft/Taking of Pedal Cycle,24,7,1441,2062,1896,1764,1701,1326,1357,1201,1204,1232,1275,0.8125830925428864,High
+1048,Westminster,Violence Against the Person,Assault with Injury,25,8,2902,2950,2950,3077,2514,1884,2065,2127,2173,2331,2328,1.77720256969958,High
+1049,Westminster,Violence Against the Person,Common Assault,26,8,1679,1906,2137,2180,1931,1884,2468,3132,3430,3886,4095,1.5668511417120154,High
+1050,Westminster,Violence Against the Person,Grievous Bodily Harm,27,8,251,533,279,0,0,0,0,0,0,0,0,-0.6181396279487847,Low
+1051,Westminster,Violence Against the Person,Harassment,28,8,2605,2708,2475,2209,2102,1921,2327,3009,3550,4359,4689,1.8065074652081377,High
+1052,Westminster,Violence Against the Person,Murder,29,8,5,3,2,1,4,5,3,5,2,10,1,-0.7328061319652249,Low
+1053,Westminster,Violence Against the Person,Offensive Weapon,30,8,338,250,210,217,150,186,202,196,270,360,379,-0.5120203851223407,Medium
+1054,Westminster,Violence Against the Person,Other violence,31,8,456,439,474,405,292,311,362,453,586,833,744,-0.3167654184573667,Medium
+1055,Westminster,Violence Against the Person,Wounding/GBH,32,8,237,0,208,466,334,833,1154,1173,1160,1261,1239,-0.11840235681421236,Medium
