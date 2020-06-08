@@ -127,7 +127,7 @@ ns_probs = [0 for _ in range(len(y_test))]
 
 # Best Parameters: activation: relu, max_iter: 1500, solver: adam
 
-clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(500,500,500), max_iter=1000, solver= 'adam',learning_rate = 'constant')
 clf.fit(X_train, y_train)
 
 # clf = Perceptron(eta0=0.01, random_state=1, max_iter= 100)
@@ -167,6 +167,7 @@ clf.fit(X_train, y_train)
 #     layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer)+","+str(max_layer))
 # print(my_mae)
 #
+# plt.title('Mean Absolute Error of Test set')
 # plt.plot(layer_name,my_mae)
 # plt.xticks(rotation=45)
 # plt.show()
@@ -202,7 +203,7 @@ models = []
 models.append(('Perceptron', Perceptron(eta0=0.1, random_state=0, max_iter=100)))
 models.append(('MLP (50,100,50)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(50,100,50), max_iter=1000, solver= 'adam',learning_rate = 'adaptive')))
 models.append(('MLP (100,100,100)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(100,100,100), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
-models.append(('MLP (400,400,400)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
+models.append(('MLP (500,500,500)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(500,500,500), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
 
 # evaluate each model in turn
 results = []

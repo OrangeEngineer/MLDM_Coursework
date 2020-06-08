@@ -52,7 +52,7 @@ def plot_confusion(cm, classes,
     This function prints and plots the confusion matrix.
     Normalization can be applied by setting `normalize=True`.
     """
-    fig = plt.figure(figsize=(10, 8))
+    fig = plt.figure(figsize=(13, 10))
     plt.imshow(cm, interpolation='nearest', cmap=cmap)
     plt.title(title)
     plt.colorbar()
