@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d652d9f-9cbc-4e76-8982-cd82c7246f2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LondonCrimes/SingleLayerLondonCrime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LondonCrimes/LondonCrimePreprocessing" beforeDir="false" afterPath="$PROJECT_DIR$/LondonCrimes/LondonCrimePreprocessing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/VideoGamePreprocessing" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/VideoGamePreprocessing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/SinglePerceptronVideoGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/SinglePerceptronVideoGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.VideoGamePreprocessing">
+  <component name="RunManager" selected="Python.SingleLayerLondonCrime">
     <configuration name="LondonCrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SingleLayerLondonCrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoGames" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LondonCrimes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoGames/TestFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LondonCrimes/SingleLayerLondonCrime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VideoGamePredicter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SinglePerceptronVideoGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoGames/VideoGamePredicter" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoGames/SinglePerceptronVideoGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SingleLayerLondonCrime" />
+        <item itemvalue="Python.SinglePerceptronVideoGame" />
         <item itemvalue="Python.VideoGamePreprocessing" />
         <item itemvalue="Python.LondonCrimePreprocessing" />
         <item itemvalue="Python.LondonCrime" />
-        <item itemvalue="Python.VideoGamePredicter" />
-        <item itemvalue="Python.TestFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -161,33 +161,38 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="635" y="357" width="707" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589980621773" />
-    <state width="1830" height="323" key="GridCell.Tab.0.bottom" timestamp="1591617469625">
-      <screen x="67" y="27" width="3773" height="1053" />
+    <state width="1897" height="323" key="GridCell.Tab.0.bottom" timestamp="1591638241341">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1897" height="323" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591638241341" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222623" />
     <state width="1830" height="323" key="GridCell.Tab.0.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469625" />
-    <state width="1830" height="323" key="GridCell.Tab.0.center" timestamp="1591617469624">
-      <screen x="67" y="27" width="3773" height="1053" />
+    <state width="1897" height="323" key="GridCell.Tab.0.center" timestamp="1591638241341">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1897" height="323" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591638241341" />
     <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222622" />
     <state width="1830" height="323" key="GridCell.Tab.0.center/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
-    <state width="1830" height="323" key="GridCell.Tab.0.left" timestamp="1591617469624">
-      <screen x="67" y="27" width="3773" height="1053" />
+    <state width="1897" height="323" key="GridCell.Tab.0.left" timestamp="1591638241341">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1897" height="323" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591638241341" />
     <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222622" />
     <state width="1830" height="323" key="GridCell.Tab.0.left/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
-    <state width="1830" height="323" key="GridCell.Tab.0.right" timestamp="1591617469624">
-      <screen x="67" y="27" width="3773" height="1053" />
+    <state width="1897" height="323" key="GridCell.Tab.0.right" timestamp="1591638241341">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1897" height="323" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591638241341" />
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222623" />
     <state width="1830" height="323" key="GridCell.Tab.0.right/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
     <state x="2369" y="174" key="SettingsEditor" timestamp="1591553046151">
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
     <state x="2369" y="174" key="SettingsEditor/67.27.3773.1053@67.27.3773.1053" timestamp="1591553046151" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1589977354193">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1591635089658">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591635089658" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589977354193" />
     <state x="2648" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591595332987">
       <screen x="67" y="27" width="3773" height="1053" />

@@ -4,34 +4,28 @@ import pandas as pd
 import numpy as np
 from sklearn import preprocessing, metrics
 from sklearn.calibration import CalibratedClassifierCV
-from sklearn.model_selection import train_test_split, RandomizedSearchCV, StratifiedKFold, cross_val_score
+from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 from sklearn.linear_model import Perceptron
-from sklearn.metrics import accuracy_score, auc
+from sklearn.metrics import accuracy_score, auc, mean_absolute_error, classification_report, confusion_matrix
 
 from sklearn.datasets import make_classification
 from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import label_binarize
-from sklearn.metrics import mean_absolute_error
-
 import itertools
 
 
-from sklearn.neural_network import MLPClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix, roc_curve, roc_auc_score, classification_report
-
-
 # crimedata=pd.read_csv(r'~/Workspace/ML_CW/CrimeDT.csv')
-crimedata=pd.read_csv('Preprocessed_VideoGames.csv')
+crimedata=pd.read_csv('Preprocessed_LodonCrime.csv')
 crimedata = crimedata.drop(crimedata.columns[0],axis=1)
 
 categorise = {'Low': 0, 'Medium': 1, 'High': 2}
-crimedata["GameTier"] = crimedata["GameTier"].map(categorise)
+crimedata["CrimeTier"] = crimedata["CrimeTier"].map(categorise)
 
-start = crimedata.columns.get_loc('Platform')
-end = crimedata.columns.get_loc('User_normalised_by_year')
-label = crimedata.columns.get_loc('GameTier')
+start = crimedata.columns.get_loc('MinorCategory')
+end = crimedata.columns.get_loc('2018')
+label = crimedata.columns.get_loc('CrimeTier')
 
 X = crimedata.values[:,start:end]
 enc = preprocessing.OrdinalEncoder()
@@ -42,6 +36,7 @@ print (X)
 # Extracting target/ class labels
 y = crimedata.values[:,label].astype(float)
 print (y)
+
 ######################################################################################################
 
 ####################         Multilayer Perceptron Part         ######################################
