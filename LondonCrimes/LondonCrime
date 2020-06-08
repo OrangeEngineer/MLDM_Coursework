@@ -2,17 +2,18 @@ from itertools import cycle
 
 import pandas as pd
 import numpy as np
-from sklearn import preprocessing
+from sklearn import preprocessing, metrics
 from sklearn.calibration import CalibratedClassifierCV
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 from sklearn.linear_model import Perceptron
-from sklearn.metrics import accuracy_score, auc
+from sklearn.metrics import accuracy_score, auc, mean_absolute_error
 
 from sklearn.datasets import make_classification
 from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import label_binarize
+import itertools
 
 
 # crimedata=pd.read_csv(r'~/Workspace/ML_CW/CrimeDT.csv')
@@ -48,6 +49,36 @@ from sklearn.metrics import accuracy_score, confusion_matrix, roc_curve, roc_auc
 # Grid Search
 from sklearn.model_selection import GridSearchCV
 
+def plot_confusion(cm, classes,
+                          normalize=False,
+                          title='Confusion matrix',
+                          cmap=plt.cm.Blues):
+    """
+    This function prints and plots the confusion matrix.
+    Normalization can be applied by setting `normalize=True`.
+    """
+    fig = plt.figure(figsize=(10, 8))
+    plt.imshow(cm, interpolation='nearest', cmap=cmap)
+    plt.title(title)
+    plt.colorbar()
+    tick_marks = np.arange(len(classes))
+    plt.xticks(tick_marks, classes)
+    plt.yticks(tick_marks, classes)
+
+    if normalize:
+        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+
+    thresh = cm.max() / 2.
+    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+        plt.text(j, i, cm[i, j],
+                 horizontalalignment="center",
+                 color="white" if cm[i, j] > thresh else "black")
+
+    plt.tight_layout()
+    plt.ylabel('True label')
+    plt.xlabel('Predicted label')
+    plt.show()
+
 
 
 # clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(50,), max_iter=1000)
@@ -73,34 +104,72 @@ y = label_binarize(y, classes=[0, 1, 2])
 n_classes = y.shape[1]
 
 # X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0)
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 14, test_size = 0.25)
+
+# X_tr, X_test, y_tr, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
+# X_train, X_val, y_train, y_val = train_test_split(X_tr, y_tr, random_state = 14, test_size = 0.20)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
 
 # generate a random prediction (majority class)
 ns_probs = [0 for _ in range(len(y_test))]
 # fit first model(MLP 1)
 
-parameter_space = {
-    'hidden_layer_sizes':[(50,50,50), (50,100,50), (100,),(100,100,100),(100,100)],
-    'max_iter': [500,1000,1500],
-    'activation': ['logistic','tanh', 'relu'],
-    'solver': ['sgd', 'adam']
-    # 'alpha': [0.0001, 0.05],
-    # 'learning_rate': ['constant','invscaling','adaptive'],
-}
+# parameter_space = {
+#     'hidden_layer_sizes':[(50,100,50), (100,100,100),(400,400,400)],
+#     'max_iter': [1000],
+#     'activation': ['logistic'],
+#     'solver': [ 'adam'],
+#     # 'alpha': [0.0001, 0.05],
+#     'learning_rate': ['constant'],
+# }
 
-clf = GridSearchCV(MLPClassifier(), parameter_space, n_jobs=-1)
+# clf = GridSearchCV(MLPClassifier(), parameter_space, n_jobs=-1)
 
 # Best Parameters: activation: relu, max_iter: 1500, solver: adam
 
-# clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(100,100), max_iter=1000)
+clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')
 clf.fit(X_train, y_train)
 
 # clf = Perceptron(eta0=0.01, random_state=1, max_iter= 100)
 # clf = CalibratedClassifierCV(clf)
 # clf.fit(X_train, y_train)
 
-print('Best parameters found:\n', clf.best_params_)
+# print('Best parameters found:\n', clf.best_params_)
 
+# my_mae = []
+# layer_name = []
+# layers = [50,100,150,200,300,400,500]
+#
+# #for 2 Layers
+# for max_layer in layers:
+#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+#     model.fit(X_train, y_train)
+#     preds_val = model.predict(X_val)
+#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+#     my_mae.append(mae)
+#     layer_name.append(""+str(max_layer)+","+str(max_layer))
+#
+# #for 3 Layers
+# for max_layer in layers:
+#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+#     model.fit(X_train, y_train)
+#     preds_val = model.predict(X_val)
+#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+#     my_mae.append(mae)
+#     layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer))
+#
+# for max_layer in layers:
+#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+#     model.fit(X_train, y_train)
+#     preds_val = model.predict(X_val)
+#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+#     my_mae.append(mae)
+#     layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer)+","+str(max_layer))
+# print(my_mae)
+#
+# plt.plot(layer_name,my_mae)
+# plt.xticks(rotation=45)
+# plt.show()
 
 # Split dataset in to Train:Test - 75:25
 
@@ -108,11 +177,46 @@ print('Best parameters found:\n', clf.best_params_)
 y_score = clf.predict_proba(X_test)
 
 clf_predict = clf.predict(X_test)
+clf_predict_on_train = clf.predict(X_train)
 
 # Accuracy factors
 print('acc for training data: {:.3f}'.format(clf.score(X_train, y_train)))
 print('acc for test data: {:.3f}'.format(clf.score(X_test, y_test)))
 print('MLP Classification report:\n\n', classification_report(y_test, clf_predict))
+
+cm = confusion_matrix(y_test.argmax(axis=1),clf_predict.argmax(axis=1))
+cm_on_train = confusion_matrix(y_train.argmax(axis=1),clf_predict_on_train.argmax(axis=1))
+# print(cm)
+
+print("Classification report for classifier %s:\n%s\n"
+      % (clf, metrics.classification_report(y_test.argmax(axis=1), clf_predict.argmax(axis=1))))
+plot_confusion(cm,classes=["Low","Medium","High"], title='Test Set Confusion matrix')# disp.figure_.suptitle("Confusion Matrix")
+# print("Confusion matrix:\n%s" % disp.confusion_matrix)
+print("Classification report for classifier %s:\n%s\n"
+      % (clf, metrics.classification_report(y_train.argmax(axis=1), clf_predict_on_train.argmax(axis=1))))
+plot_confusion(cm_on_train,classes=["Low","Medium","High"], title='Training Set Confusion matrix')# disp.figure_.suptitle("Confusion Matrix")
+# print("Confusion matrix:\n%s" % disp.confusion_matrix)
+plt.show()
+
+models = []
+models.append(('Perceptron', Perceptron(eta0=0.1, random_state=0, max_iter=100)))
+models.append(('MLP (50,100,50)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(50,100,50), max_iter=1000, solver= 'adam',learning_rate = 'adaptive')))
+models.append(('MLP (100,100,100)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(100,100,100), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
+models.append(('MLP (400,400,400)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
+
+# evaluate each model in turn
+results = []
+names = []
+for name, model in models:
+	kfold = StratifiedKFold(n_splits=10, random_state=1)
+	cv_results = cross_val_score(model, X_train, y_train.argmax(axis=1), cv=kfold, scoring='accuracy')
+	results.append(cv_results)
+	names.append(name)
+	print('%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
+# Compare Algorithms
+plt.boxplot(results, labels=names)
+plt.title('10-fold cross-validation on VideoGame dataset')
+plt.show()
 
 # ============================================================================
 # ROC Curve Setup
