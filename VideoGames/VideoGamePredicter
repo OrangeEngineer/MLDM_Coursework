@@ -87,10 +87,10 @@ from sklearn.model_selection import GridSearchCV
 y = label_binarize(y, classes=[0, 1, 2])
 n_classes = y.shape[1]
 
-# X_tr, X_test, y_tr, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
-# X_train, X_val, y_train, y_val = train_test_split(X_tr, y_tr, random_state = 14, test_size = 0.20)
+X_tr, X_test, y_tr, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
+X_train, X_val, y_train, y_val = train_test_split(X_tr, y_tr, random_state = 14, test_size = 0.20)
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
+# X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 14, test_size = 0.20)
 # generate a random prediction (majority class)
 ns_probs = [0 for _ in range(len(y_test))]
 
@@ -112,41 +112,42 @@ clf = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(4
 clf.fit(X_train, y_train)
 
 # print('Best parameters found:\n', clf.best_params_)
-#
-# my_mae = []
-# layer_name = []
-# layers = [50,100,150,200,300,400,500]
 
-#for 2 Layers
-# for max_layer in layers:
-#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
-#     model.fit(X_train, y_train)
-#     preds_val = model.predict(X_val)
-#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
-#     my_mae.append(mae)
-#     layer_name.append(""+str(max_layer)+","+str(max_layer))
-#
-# #for 3 Layers
-# for max_layer in layers:
-#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
-#     model.fit(X_train, y_train)
-#     preds_val = model.predict(X_val)
-#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
-#     my_mae.append(mae)
-#     layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer))
-#
-# for max_layer in layers:
-#     model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
-#     model.fit(X_train, y_train)
-#     preds_val = model.predict(X_val)
-#     mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
-#     my_mae.append(mae)
-#     layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer)+","+str(max_layer))
-# print(my_mae)
-#
-# plt.plot(layer_name,my_mae)
-# plt.xticks(rotation=45)
-# plt.show()
+my_mae = []
+layer_name = []
+layers = [50,100,150,200,300,400,500]
+
+# for 2 Layers
+for max_layer in layers:
+    model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+    model.fit(X_train, y_train)
+    preds_val = model.predict(X_val)
+    mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+    my_mae.append(mae)
+    layer_name.append(""+str(max_layer)+","+str(max_layer))
+
+#for 3 Layers
+for max_layer in layers:
+    model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+    model.fit(X_train, y_train)
+    preds_val = model.predict(X_val)
+    mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+    my_mae.append(mae)
+    layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer))
+
+for max_layer in layers:
+    model = MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(max_layer,max_layer,max_layer,max_layer), max_iter=1000, solver= 'adam',learning_rate = 'constant')
+    model.fit(X_train, y_train)
+    preds_val = model.predict(X_val)
+    mae = mean_absolute_error(y_val.argmax(axis=1), preds_val.argmax(axis=1))
+    my_mae.append(mae)
+    layer_name.append("" + str(max_layer) + "," + str(max_layer)+","+str(max_layer)+","+str(max_layer))
+print(my_mae)
+
+plt.plot(layer_name,my_mae)
+plt.title('Mean Absolute Error of Test set')
+plt.xticks(rotation=45)
+plt.show()
 
 # clf = Perceptron(eta0=0.01, random_state=1, max_iter= 100)
 # clf = CalibratedClassifierCV(clf)
@@ -191,7 +192,7 @@ models = []
 models.append(('Perceptron', Perceptron(eta0=0.1, random_state=0, max_iter=100)))
 models.append(('MLP (50,100,50)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(50,100,50), max_iter=1000, solver= 'adam',learning_rate = 'adaptive')))
 models.append(('MLP (100,100,100)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(100,100,100), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
-models.append(('MLP (400,400,400)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
+models.append(('MLP (400,400)',MLPClassifier(random_state=0, activation='logistic', hidden_layer_sizes=(400,400), max_iter=1000, solver= 'adam',learning_rate = 'constant')))
 
 # evaluate each model in turn
 results = []
