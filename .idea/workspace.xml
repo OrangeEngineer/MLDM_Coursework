@@ -3,11 +3,48 @@
   <component name="ChangeListManager">
     <list default="true" id="6d652d9f-9cbc-4e76-8982-cd82c7246f2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/10_fold.png" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/10_fold.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/MAE.png" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/MAE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/ROC_videogame.png" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/ROC_videogame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/Roc_Zoom.png" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/Roc_Zoom.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoGames/VideoGamePredicter" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/VideoGamePredicter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/10_fold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/CrimeDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/LondonCrime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/LondonCrimePreprocessing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/MLP_ROC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/MLP_ROC_relu_max1500_adam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/MLP_Zoom_In.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Normalized_MLP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Normalized_MLP_Zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Preprocessed_LodonCrime.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LondonCrimes/Preprocessed_LodonCrime.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Screenshot from 2020-06-09 03-24-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Screenshot from 2020-06-09 03-24-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/Screenshot from 2020-06-09 03-24-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/SinglePTestConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/SinglePTrainingConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/TestConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/TrainingConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/acc_singleP_Crime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/acc_singleP_Crime2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/heatmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/mae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LondonCrimes/scatter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/10_fold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/MAE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/PerceptronTestConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/PerceptronTrainConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/ROC_videogame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/Roc_Zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/Screenshot from 2020-06-08 15-37-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/Screenshot from 2020-06-08 15-37-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/Screenshot from 2020-06-08 15-38-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/TestConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/TestFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/TrainConfusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/VideGamesPreprocessed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/VideoGames/VideGames.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/VideoGamePredicter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/VideoGamePreprocessing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/acc_singleP_Video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/acc_singleP_Video2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/heatmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGames/scatter.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +67,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.VideoGamePredicter">
+  <component name="RunManager" selected="Python.LondonCrimePreprocessing (1)">
     <configuration name="LondonCrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SingleLayerLondonCrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LondonCrimePreprocessing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LondonCrimes/SingleLayerLondonCrime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LondonCrimes/LondonCrimePreprocessing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SinglePerceptronVideoGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LondonCrimePreprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_CW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoGames" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LondonCrimes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoGames/SinglePerceptronVideoGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LondonCrimes/LondonCrimePreprocessing" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.VideoGamePredicter" />
-        <item itemvalue="Python.SinglePerceptronVideoGame" />
-        <item itemvalue="Python.LondonCrime" />
-        <item itemvalue="Python.SingleLayerLondonCrime" />
+        <item itemvalue="Python.LondonCrimePreprocessing (1)" />
         <item itemvalue="Python.VideoGamePreprocessing" />
+        <item itemvalue="Python.LondonCrimePreprocessing" />
+        <item itemvalue="Python.LondonCrime" />
+        <item itemvalue="Python.VideoGamePredicter" />
       </list>
     </recent_temporary>
   </component>
@@ -164,31 +201,35 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="635" y="357" width="707" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589980621773" />
-    <state width="1830" height="313" key="GridCell.Tab.0.bottom" timestamp="1591676287287">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="2020" y="98" width="1720" height="882" key="DiffContextDialog" timestamp="1591755417635">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="323" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591648433056" />
+    <state x="2020" y="98" width="1720" height="882" key="DiffContextDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591755417635" />
+    <state width="1897" height="322" key="GridCell.Tab.0.bottom" timestamp="1591757479236">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="322" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591757479236" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222623" />
     <state width="1830" height="313" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591676287287" />
     <state width="1830" height="323" key="GridCell.Tab.0.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469625" />
-    <state width="1830" height="313" key="GridCell.Tab.0.center" timestamp="1591676287286">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1897" height="322" key="GridCell.Tab.0.center" timestamp="1591757479236">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="323" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591648433056" />
+    <state width="1897" height="322" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591757479236" />
     <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222622" />
     <state width="1830" height="313" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591676287286" />
     <state width="1830" height="323" key="GridCell.Tab.0.center/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
-    <state width="1830" height="313" key="GridCell.Tab.0.left" timestamp="1591676287286">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1897" height="322" key="GridCell.Tab.0.left" timestamp="1591757479236">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="323" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591648433056" />
+    <state width="1897" height="322" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591757479236" />
     <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222622" />
     <state width="1830" height="313" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591676287286" />
     <state width="1830" height="323" key="GridCell.Tab.0.left/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
-    <state width="1830" height="313" key="GridCell.Tab.0.right" timestamp="1591676287287">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1897" height="322" key="GridCell.Tab.0.right" timestamp="1591757479236">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="323" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591648433056" />
+    <state width="1897" height="322" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591757479236" />
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589986222623" />
     <state width="1830" height="313" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591676287287" />
     <state width="1830" height="323" key="GridCell.Tab.0.right/67.27.3773.1053@67.27.3773.1053" timestamp="1591617469624" />
@@ -196,10 +237,10 @@
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
     <state x="2369" y="174" key="SettingsEditor/67.27.3773.1053@67.27.3773.1053" timestamp="1591553046151" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1591657540332">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1591756186393">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591645109297" />
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591756186393" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589977354193" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591657540331" />
     <state x="2648" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591595332987">
